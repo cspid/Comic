@@ -18,6 +18,12 @@ public class CustomInspectorBorder : Editor
         {
             borderScript.CheckForCams();
         }
+		if (GUILayout.Button("Check BorderSize"))
+        {
+			borderScript.CheckBorderSize();
+        }
+
+
 	}
 
 }
