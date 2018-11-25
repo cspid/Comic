@@ -25,9 +25,9 @@ public class BorderScript : MonoBehaviour
 	{
 		if (checkBordersize == true)
 		{
-			bool once = true;
-			if (once == true)
-			{
+			//bool once = true;
+			//if (once == true)
+			//{
 				GameObject[] borderCams = GameObject.FindGameObjectsWithTag("Border");
 
 				for (int i = 0; i < borderCams.Length; i++)
@@ -38,7 +38,7 @@ public class BorderScript : MonoBehaviour
 				}
 			}
 		}
-	}
+	//}
 
 	public void CheckBorderSize()
 	{

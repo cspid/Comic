@@ -1,34 +1,31 @@
 fileFormatVersion: 2
-guid: ac5cb77eb5a2c4f3fa78ba20c9918a63
+guid: d9d7ebab614f24808bab9f9a8af97ea6
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
-    100000: //RootNode
-    100002: Cylinder
-    100004: Cylinder_001
-    100006: House
-    100008: mailbox
-    400000: //RootNode
-    400002: Cylinder
-    400004: Cylinder_001
-    400006: House
-    400008: mailbox
-    2100000: unnamed
-    2100002: walls
-    2100004: Roof
-    2100006: Window
-    2300000: Cylinder
-    2300002: Cylinder_001
-    2300004: House
-    2300006: mailbox
-    3300000: Cylinder
-    3300002: Cylinder_001
-    3300004: House
-    3300006: mailbox
-    4300000: Cylinder_001
-    4300002: Cylinder
-    4300004: mailbox
-    4300006: House
+    100000: lmirror
+    100002: lmirror.001
+    100004: //RootNode
+    100006: Untitled
+    400000: lmirror
+    400002: lmirror.001
+    400004: //RootNode
+    400006: Untitled
+    2100000: Saab_glass
+    2100002: Saab_Body
+    2100004: Saab_Rims
+    2100006: Saab_Front_Lights
+    2100008: Saab_Orange
+    2100010: Saab_redlight
+    2300000: lmirror
+    2300002: lmirror.001
+    2300004: Untitled
+    3300000: lmirror
+    3300002: lmirror.001
+    3300004: Untitled
+    4300000: lmirror.001
+    4300002: lmirror
+    4300004: Untitled
   externalObjects: {}
   materials:
     importMaterials: 1

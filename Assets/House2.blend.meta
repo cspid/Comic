@@ -1,34 +1,79 @@
 fileFormatVersion: 2
-guid: ac5cb77eb5a2c4f3fa78ba20c9918a63
+guid: b68a142cd9ab54b57afeb5c4d12c9353
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
-    100000: //RootNode
+    100000: Chimney
     100002: Cylinder
     100004: Cylinder_001
-    100006: House
-    100008: mailbox
-    400000: //RootNode
+    100006: Door
+    100008: Frame
+    100010: House
+    100012: //RootNode
+    100014: House_001
+    100016: mailbox
+    100018: Roof
+    100020: Steps
+    100022: Window_Frame
+    100024: Windows
+    400000: Chimney
     400002: Cylinder
     400004: Cylinder_001
-    400006: House
-    400008: mailbox
-    2100000: unnamed
-    2100002: walls
-    2100004: Roof
-    2100006: Window
-    2300000: Cylinder
-    2300002: Cylinder_001
-    2300004: House
-    2300006: mailbox
-    3300000: Cylinder
-    3300002: Cylinder_001
-    3300004: House
-    3300006: mailbox
-    4300000: Cylinder_001
-    4300002: Cylinder
-    4300004: mailbox
-    4300006: House
+    400006: Door
+    400008: Frame
+    400010: House
+    400012: //RootNode
+    400014: House_001
+    400016: mailbox
+    400018: Roof
+    400020: Steps
+    400022: Window_Frame
+    400024: Windows
+    2100000: walls
+    2100002: Roof
+    2100004: Window
+    2100006: Frame
+    2100008: Steps
+    2100010: Chimney
+    2100012: unnamed
+    2300000: Chimney
+    2300002: Cylinder
+    2300004: Cylinder_001
+    2300006: Door
+    2300008: Frame
+    2300010: House
+    2300012: House_001
+    2300014: mailbox
+    2300016: Roof
+    2300018: Steps
+    2300020: Window_Frame
+    2300022: Windows
+    3300000: Chimney
+    3300002: Cylinder
+    3300004: Cylinder_001
+    3300006: Door
+    3300008: Frame
+    3300010: House
+    3300012: House_001
+    3300014: mailbox
+    3300016: Roof
+    3300018: Steps
+    3300020: Window_Frame
+    3300022: Windows
+    4300000: House_001
+    4300002: Roof
+    4300004: Windows
+    4300006: Window_Frame
+    4300008: Door
+    4300010: Frame
+    4300012: Steps
+    4300014: Chimney
+    4300016: Cylinder_001
+    4300018: Cylinder
+    4300020: mailbox
+    4300022: House
+    7400000: Default Take
+    9500000: //RootNode
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -81,7 +126,7 @@ ModelImporter:
     secondaryUVPackMargin: 4
     useFileScale: 1
     previousCalculatedGlobalScale: 1
-    hasPreviousCalculatedGlobalScale: 0
+    hasPreviousCalculatedGlobalScale: 1
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
@@ -106,7 +151,7 @@ ModelImporter:
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  animationType: 0
+  animationType: 2
   humanoidOversampling: 1
   additionalBone: 0
   userData: 
