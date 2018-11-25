@@ -9,30 +9,88 @@ ModelImporter:
     100006: House
     100008: mailbox
     100010: Sun
+    100012: Chimney
+    100014: Door
+    100016: Frame
+    100018: House.001
+    100020: House.002
+    100022: House.003
+    100024: Steps
     400000: Cylinder
     400002: Cylinder.001
     400004: //RootNode
     400006: House
     400008: mailbox
     400010: Sun
+    400012: Chimney
+    400014: Door
+    400016: Frame
+    400018: House.001
+    400020: House.002
+    400022: House.003
+    400024: Steps
     2100000: No Name
     2100002: walls
     2100004: Roof
     2100006: Window
+    2100008: Frame
+    2100010: Steps
+    2100012: Chimney
     2300000: Cylinder
     2300002: Cylinder.001
     2300004: House
     2300006: mailbox
+    2300008: Chimney
+    2300010: Door
+    2300012: Frame
+    2300014: House.001
+    2300016: House.002
+    2300018: House.003
+    2300020: Steps
     3300000: Cylinder
     3300002: Cylinder.001
     3300004: House
     3300006: mailbox
+    3300008: Chimney
+    3300010: Door
+    3300012: Frame
+    3300014: House.001
+    3300016: House.002
+    3300018: House.003
+    3300020: Steps
     4300000: Cylinder.001
     4300002: Cylinder
     4300004: mailbox
     4300006: House
+    4300008: House.003
+    4300010: House.002
+    4300012: House.001
+    4300014: Door
+    4300016: Frame
+    4300018: Steps
+    4300020: Chimney
     10800000: Sun
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 87de4fc5eba7f4088ba832750ee91139, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roof
+    second: {fileID: 2100000, guid: a129dccd585a74ca5ac075514c1d1f20, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Window
+    second: {fileID: 2100000, guid: 6cfb4626a4fbc4375b51b02a6651aafb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: walls
+    second: {fileID: 2100000, guid: 92ff34d61090c4e68857b2f042c30c1b, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
