@@ -1,0 +1,24 @@
+# Written by MakeHuman 1.1.0
+version v1.1.0
+tags dad
+camera 359.0 11.5 0.048715428225 0.825212802846 0.0519641805063 6.5875
+modifier macrodetails-universal/Muscle 0.500000
+modifier macrodetails/African 0.051064
+modifier macrodetails-proportions/BodyProportions 0.500000
+modifier macrodetails/Gender 0.642000
+modifier macrodetails-height/Height 0.615000
+modifier breast/BreastSize 0.500000
+modifier macrodetails/Age 0.711000
+modifier breast/BreastFirmness 0.500000
+modifier macrodetails/Asian 0.173936
+modifier macrodetails/Caucasian 0.775000
+modifier macrodetails-universal/Weight 0.528000
+hair short02 c104cd4a-1edc-43f9-8b94-f63345a44638
+eyes Low-Poly 1cc97a30-85a1-42e6-a9f7-b3e753732baa
+clothes male_elegantsuit01 1d2e3843-dda5-40a8-84a0-96666aa681bb
+clothes shoes01 6e0c552e-e207-44df-8f70-c9bfdeddd8c6
+clothesHideFaces True
+skinMaterial skins/old_caucasian_female/old_caucasian_female.mhmat
+material short02 c104cd4a-1edc-43f9-8b94-f63345a44638 short02.mhmat
+material Low-Poly 1cc97a30-85a1-42e6-a9f7-b3e753732baa eyes/materials/brown.mhmat
+subdivide False
