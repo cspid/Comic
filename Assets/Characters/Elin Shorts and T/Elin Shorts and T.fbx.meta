@@ -75,6 +75,19 @@ ModelImporter:
     100138: thumb_03_r_end
     100140: upperarm_l
     100142: upperarm_r
+    100144: ball_l_end_end
+    100146: ball_r_end_end
+    100148: head_end_end
+    100150: index_03_l_end_end
+    100152: index_03_r_end_end
+    100154: middle_03_l_end_end
+    100156: middle_03_r_end_end
+    100158: pinky_03_l_end_end
+    100160: pinky_03_r_end_end
+    100162: ring_03_l_end_end
+    100164: ring_03_r_end_end
+    100166: thumb_03_l_end_end
+    100168: thumb_03_r_end_end
     400000: ball_l
     400002: ball_l_end
     400004: ball_r
@@ -147,6 +160,19 @@ ModelImporter:
     400138: thumb_03_r_end
     400140: upperarm_l
     400142: upperarm_r
+    400144: ball_l_end_end
+    400146: ball_r_end_end
+    400148: head_end_end
+    400150: index_03_l_end_end
+    400152: index_03_r_end_end
+    400154: middle_03_l_end_end
+    400156: middle_03_r_end_end
+    400158: pinky_03_l_end_end
+    400160: pinky_03_r_end_end
+    400162: ring_03_l_end_end
+    400164: ring_03_r_end_end
+    400166: thumb_03_l_end_end
+    400168: thumb_03_r_end_end
     2100000: Shorts
     2100002: female_casualsuit02
     2100004: lakers jersey

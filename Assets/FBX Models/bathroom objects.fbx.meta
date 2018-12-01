@@ -1,0 +1,330 @@
+fileFormatVersion: 2
+guid: a6a5d8c2c6f284b96bf1ecc6438a2235
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Baseboard
+    100002: //RootNode
+    100004: Bathroom Sink
+    100006: Camera
+    100008: Circle.006
+    100010: Circle.013
+    100012: Cube.040
+    100014: Cube.053
+    100016: Facucet
+    100018: Lamp
+    100020: Mirror
+    100022: Mirror Backing
+    100024: Toilet Bolt Cap
+    100026: Toilet Bottom
+    100028: Toilet Bowl
+    100030: Toilet Handle
+    100032: Toilet Lid
+    100034: Toilet Seat
+    100036: Toilet Tank
+    100038: Toilet Tank Lid
+    100040: TP
+    100042: TP Stand
+    100044: TP Stand.001
+    100046: Vanity
+    100048: Vanity Door
+    100050: Vanity Door R
+    100052: Vanity Handle
+    100054: Vanity Handle R
+    100056: Vanity Top
+    100058: Window Frame Bottom
+    100060: Window Frame Top
+    100062: window grill
+    100064: Window Moulding
+    100066: Window Sill
+    400000: Baseboard
+    400002: //RootNode
+    400004: Bathroom Sink
+    400006: Camera
+    400008: Circle.006
+    400010: Circle.013
+    400012: Cube.040
+    400014: Cube.053
+    400016: Facucet
+    400018: Lamp
+    400020: Mirror
+    400022: Mirror Backing
+    400024: Toilet Bolt Cap
+    400026: Toilet Bottom
+    400028: Toilet Bowl
+    400030: Toilet Handle
+    400032: Toilet Lid
+    400034: Toilet Seat
+    400036: Toilet Tank
+    400038: Toilet Tank Lid
+    400040: TP
+    400042: TP Stand
+    400044: TP Stand.001
+    400046: Vanity
+    400048: Vanity Door
+    400050: Vanity Door R
+    400052: Vanity Handle
+    400054: Vanity Handle R
+    400056: Vanity Top
+    400058: Window Frame Bottom
+    400060: Window Frame Top
+    400062: window grill
+    400064: Window Moulding
+    400066: Window Sill
+    2000000: Camera
+    2100000: toilet tank
+    2100002: toilet handle
+    2100004: sink
+    2100006: sink hardware
+    2100008: cabinet
+    2100010: sink hardware.001
+    2100012: sink hardware.002
+    2100014: toilet paper
+    2100016: trim
+    2100018: trim.001
+    2100020: moulding
+    2100022: mirror
+    2100024: sink hardware.005
+    2300000: Baseboard
+    2300002: Bathroom Sink
+    2300004: Circle.006
+    2300006: Circle.013
+    2300008: Cube.040
+    2300010: Cube.053
+    2300012: Facucet
+    2300014: Mirror
+    2300016: Mirror Backing
+    2300018: Toilet Bolt Cap
+    2300020: Toilet Bottom
+    2300022: Toilet Bowl
+    2300024: Toilet Handle
+    2300026: Toilet Lid
+    2300028: Toilet Seat
+    2300030: Toilet Tank
+    2300032: Toilet Tank Lid
+    2300034: TP
+    2300036: TP Stand
+    2300038: TP Stand.001
+    2300040: Vanity
+    2300042: Vanity Door
+    2300044: Vanity Door R
+    2300046: Vanity Handle
+    2300048: Vanity Handle R
+    2300050: Vanity Top
+    2300052: Window Frame Bottom
+    2300054: Window Frame Top
+    2300056: window grill
+    2300058: Window Moulding
+    2300060: Window Sill
+    3300000: Baseboard
+    3300002: Bathroom Sink
+    3300004: Circle.006
+    3300006: Circle.013
+    3300008: Cube.040
+    3300010: Cube.053
+    3300012: Facucet
+    3300014: Mirror
+    3300016: Mirror Backing
+    3300018: Toilet Bolt Cap
+    3300020: Toilet Bottom
+    3300022: Toilet Bowl
+    3300024: Toilet Handle
+    3300026: Toilet Lid
+    3300028: Toilet Seat
+    3300030: Toilet Tank
+    3300032: Toilet Tank Lid
+    3300034: TP
+    3300036: TP Stand
+    3300038: TP Stand.001
+    3300040: Vanity
+    3300042: Vanity Door
+    3300044: Vanity Door R
+    3300046: Vanity Handle
+    3300048: Vanity Handle R
+    3300050: Vanity Top
+    3300052: Window Frame Bottom
+    3300054: Window Frame Top
+    3300056: window grill
+    3300058: Window Moulding
+    3300060: Window Sill
+    4300000: Toilet Lid
+    4300002: Toilet Bolt Cap
+    4300004: Toilet Bottom
+    4300006: Toilet Bowl
+    4300008: Toilet Handle
+    4300010: Toilet Seat
+    4300012: Toilet Tank
+    4300014: Toilet Tank Lid
+    4300016: Bathroom Sink
+    4300018: Circle.006
+    4300020: Vanity
+    4300022: Vanity Door
+    4300024: Vanity Door R
+    4300026: Vanity Handle
+    4300028: Vanity Handle R
+    4300030: Vanity Top
+    4300032: Facucet
+    4300034: TP Stand
+    4300036: TP Stand.001
+    4300038: TP
+    4300040: Circle.013
+    4300042: Window Frame Bottom
+    4300044: Window Frame Top
+    4300046: window grill
+    4300048: Window Moulding
+    4300050: Window Sill
+    4300052: Cube.053
+    4300054: Cube.040
+    4300056: Baseboard
+    4300058: Mirror
+    4300060: Mirror Backing
+    10800000: Lamp
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cabinet
+    second: {fileID: 2100000, guid: f151286d1f9404b819e495c3b51dcd6a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mirror
+    second: {fileID: 2100000, guid: e7e379a00bcee4fa0856f3ae7cc07e48, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: moulding
+    second: {fileID: 2100000, guid: 9c41f33a9ea734a5284363307087d396, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sink
+    second: {fileID: 2100000, guid: a88dadd1a17b548058be568996a8cdd2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sink hardware
+    second: {fileID: 2100000, guid: 2ce1b91bf75a44b50b2b77194c0ea0b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sink hardware.001
+    second: {fileID: 2100000, guid: 6fc7ca53a82d74935873d8b7f8aef08f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sink hardware.002
+    second: {fileID: 2100000, guid: a90c9900212264c7d86147a986df1de3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sink hardware.005
+    second: {fileID: 2100000, guid: 8ca299975c1394fbcb996fc752584a2d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: toilet handle
+    second: {fileID: 2100000, guid: 6efc91a3fbe854d608fa7485b62a2da1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: toilet paper
+    second: {fileID: 2100000, guid: 5064f7a1144054860b001747d204cabb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: toilet tank
+    second: {fileID: 2100000, guid: 8df9b39c223aa41529540c822e77a456, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: trim
+    second: {fileID: 2100000, guid: 50c8f1fec2c5149709731fdbf8f46897, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: trim.001
+    second: {fileID: 2100000, guid: 95e44d17d2c8e4650b4c46ad73073629, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
