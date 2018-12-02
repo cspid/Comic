@@ -732,6 +732,11 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: Eye Rim
+    second: {fileID: 2100000, guid: c66366d174d964427804f2502c76e959, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: Frame
     second: {fileID: 2100000, guid: 54f31027214804fcf8f80be338073e0a, type: 2}
   - first:
@@ -799,6 +804,11 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: Material.003
     second: {fileID: 2100000, guid: 18c7bd82633164acf91e0c3b9f9f3cde, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.004
+    second: {fileID: 2100000, guid: c7d72fd97899744ac848ab83085bd935, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -882,6 +892,11 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: Shorts
+    second: {fileID: 2100000, guid: 3db84254a9776495c84317a7c5b09af6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: Silver
     second: {fileID: 2100000, guid: 45d0598cfe4e646bdb5c2592334a96f1, type: 2}
   - first:
@@ -947,8 +962,43 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: elin_t_and_shorts
+    second: {fileID: 2100000, guid: 07315700b17f046618d95905b683b453, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: eye black
+    second: {fileID: 2100000, guid: db86e79e2255943fdaf8068941ba2913, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: eye-blue
+    second: {fileID: 2100000, guid: 8a363882f20d744218126dbbf30defe3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: female_casualsuit02
+    second: {fileID: 2100000, guid: 522fab97a04424eb2b877753b76e97df, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: high-poly
+    second: {fileID: 2100000, guid: bd96210a4115a41eda27d0f8cd69089b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lakers jersey
+    second: {fileID: 2100000, guid: 811c0748c6d974ce39511034f5029ae2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: metal.001
     second: {fileID: 2100000, guid: 8601829a76d8b4c2d83a8ab407cb97cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ponytail01
+    second: {fileID: 2100000, guid: 8ba9083dfb96b42bca86c2e8fa5ffbb6, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
