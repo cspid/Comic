@@ -1,55 +1,17 @@
-title: Sally
-tags: 
-colorID: 0
-position: 524,111
----
-<<if visited("Sally") is false>>
-    Player: Hey, Sally.
-    Sally: Oh! Hi.
-    Sally: You snuck up on me.
-    Sally: Don't do that.
-<<else>>
-    Player: Hey.
-    Sally: Hi.
-<<endif>>
-
-<<if not visited("Sally.Watch")>>
-    [[Anything exciting happen on your watch?|Sally.Watch]]
-<<endif>>
-
-<<if $sally_warning and not visited("Sally.Sorry")>>
-    [[Sorry about the console.|Sally.Sorry]]
-<<endif>>
-[[See you later.|Sally.Exit]]
-===
-
 title: Intro
 tags: 
 colorID: 0
 position: 512,430
 ---
 Most days I wait til i hear his car pull out of the driveway before I get up. It's not that I don't want to see him - I get along pretty well with my dad. 
-Sally: Same old nebula, doing the same old thing.
-Sally: Oh, Ship wanted to see you. Go say hi to it.
-<<set $should_see_ship to true>>
-<<if visited("Ship") is true>>
-    Player: Already done!
-    Sally: Go say hi again.
-<<endif>>
 ===
-
-title: Sally.Exit
-tags: 
-colorID: 6
-position: 211,417
----
-Sally: Bye.
-===
-
-title: Sally.Sorry
+title: Opening
 tags: 
 colorID: 0
-position: 827,439
+position: 835,164
 ---
-Sally: Yeah. Don't do it again.
+...
+Is it alright that I'm telling you all this?
+I hope I'm not boring you.
+This week has been kinda crazy, it's a long story. 
 ===

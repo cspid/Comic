@@ -1,0 +1,711 @@
+fileFormatVersion: 2
+guid: b40195fdfa1cd47f9b5e1b371e1d5d5d
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: ball_l
+    100002: ball_l_end
+    100004: ball_l_end_end
+    100006: ball_l_end_end_end
+    100008: ball_l_end_end_end_end
+    100010: ball_r
+    100012: ball_r_end
+    100014: ball_r_end_end
+    100016: ball_r_end_end_end
+    100018: ball_r_end_end_end_end
+    100020: bed
+    100022: BezierCurve.003
+    100024: blanket
+    100026: calf_l
+    100028: calf_r
+    100030: chair cushion
+    100032: chair front back
+    100034: chair side
+    100036: chair side 2
+    100038: Chimney
+    100040: clavicle_l
+    100042: clavicle_r
+    100044: Cube
+    100046: Cube.001
+    100048: Cube.002
+    100050: Cube.003
+    100052: Cube.004
+    100054: Cube.005
+    100056: Cube.006
+    100058: Cube.011
+    100060: Cube.012
+    100062: Cube.026
+    100064: Cylinder
+    100066: Cylinder.001
+    100068: Door
+    100070: Door.001
+    100072: Door.002
+    100074: Door.003
+    100076: Door.004
+    100078: Door_Group
+    100080: Door_Group.001
+    100082: Door_Group.002
+    100084: Door_Group.003
+    100086: DoorFrame
+    100088: DoorFrame.001
+    100090: DoorFrame.002
+    100092: DoorFrame.003
+    100094: elin_t_and_shortsMesh
+    100096: Empty
+    100098: female_casualsuit02Mesh
+    100100: foot_l
+    100102: foot_r
+    100104: Frame
+    100106: Fridge
+    100108: Game_engine
+    100110: Glenkinchie.006
+    100112: Glenkinchie.007
+    100114: Hand IK
+    100116: hand_l
+    100118: hand_r
+    100120: Handle_Back
+    100122: Handle_Back.001
+    100124: Handle_Back.002
+    100126: Handle_Back.003
+    100128: Handle_Front
+    100130: Handle_Front.001
+    100132: Handle_Front.002
+    100134: Handle_Front.003
+    100136: head
+    100138: head_end
+    100140: head_end_end
+    100142: head_end_end_end
+    100144: head_end_end_end_end
+    100146: high-polyMesh
+    100148: //RootNode
+    100150: House.001
+    100152: index_01_l
+    100154: index_01_r
+    100156: index_02_l
+    100158: index_02_r
+    100160: index_03_l
+    100162: index_03_l_end
+    100164: index_03_l_end_end
+    100166: index_03_l_end_end_end
+    100168: index_03_l_end_end_end_end
+    100170: index_03_r
+    100172: index_03_r_end
+    100174: index_03_r_end_end
+    100176: index_03_r_end_end_end
+    100178: index_03_r_end_end_end_end
+    100180: lowerarm_l
+    100182: lowerarm_r
+    100184: mailbox
+    100186: middle_01_l
+    100188: middle_01_r
+    100190: middle_02_l
+    100192: middle_02_r
+    100194: middle_03_l
+    100196: middle_03_l_end
+    100198: middle_03_l_end_end
+    100200: middle_03_l_end_end_end
+    100202: middle_03_l_end_end_end_end
+    100204: middle_03_r
+    100206: middle_03_r_end
+    100208: middle_03_r_end_end
+    100210: middle_03_r_end_end_end
+    100212: middle_03_r_end_end_end_end
+    100214: neck_01
+    100216: Oven
+    100218: pelvis
+    100220: pinky_01_l
+    100222: pinky_01_r
+    100224: pinky_02_l
+    100226: pinky_02_r
+    100228: pinky_03_l
+    100230: pinky_03_l_end
+    100232: pinky_03_l_end_end
+    100234: pinky_03_l_end_end_end
+    100236: pinky_03_l_end_end_end_end
+    100238: pinky_03_r
+    100240: pinky_03_r_end
+    100242: pinky_03_r_end_end
+    100244: pinky_03_r_end_end_end
+    100246: pinky_03_r_end_end_end_end
+    100248: Plane
+    100250: Plane.001
+    100252: ponytail01Mesh
+    100254: Pot
+    100256: ring_01_l
+    100258: ring_01_r
+    100260: ring_02_l
+    100262: ring_02_r
+    100264: ring_03_l
+    100266: ring_03_l_end
+    100268: ring_03_l_end_end
+    100270: ring_03_l_end_end_end
+    100272: ring_03_l_end_end_end_end
+    100274: ring_03_r
+    100276: ring_03_r_end
+    100278: ring_03_r_end_end
+    100280: ring_03_r_end_end_end
+    100282: ring_03_r_end_end_end_end
+    100284: Roof
+    100286: Root
+    100288: sofa
+    100290: sofa.legs
+    100292: spine_01
+    100294: spine_02
+    100296: spine_03
+    100298: Steps
+    100300: table legs
+    100302: table top
+    100304: table.legs
+    100306: table.mirror.glass
+    100308: table.top
+    100310: thigh_l
+    100312: thigh_r
+    100314: thumb_01_l
+    100316: thumb_01_r
+    100318: thumb_02_l
+    100320: thumb_02_r
+    100322: thumb_03_l
+    100324: thumb_03_l_end
+    100326: thumb_03_l_end_end
+    100328: thumb_03_l_end_end_end
+    100330: thumb_03_l_end_end_end_end
+    100332: thumb_03_r
+    100334: thumb_03_r_end
+    100336: thumb_03_r_end_end
+    100338: thumb_03_r_end_end_end
+    100340: thumb_03_r_end_end_end_end
+    100342: upperarm_l
+    100344: upperarm_r
+    100346: Window Frame
+    100348: Windows
+    400000: ball_l
+    400002: ball_l_end
+    400004: ball_l_end_end
+    400006: ball_l_end_end_end
+    400008: ball_l_end_end_end_end
+    400010: ball_r
+    400012: ball_r_end
+    400014: ball_r_end_end
+    400016: ball_r_end_end_end
+    400018: ball_r_end_end_end_end
+    400020: bed
+    400022: BezierCurve.003
+    400024: blanket
+    400026: calf_l
+    400028: calf_r
+    400030: chair cushion
+    400032: chair front back
+    400034: chair side
+    400036: chair side 2
+    400038: Chimney
+    400040: clavicle_l
+    400042: clavicle_r
+    400044: Cube
+    400046: Cube.001
+    400048: Cube.002
+    400050: Cube.003
+    400052: Cube.004
+    400054: Cube.005
+    400056: Cube.006
+    400058: Cube.011
+    400060: Cube.012
+    400062: Cube.026
+    400064: Cylinder
+    400066: Cylinder.001
+    400068: Door
+    400070: Door.001
+    400072: Door.002
+    400074: Door.003
+    400076: Door.004
+    400078: Door_Group
+    400080: Door_Group.001
+    400082: Door_Group.002
+    400084: Door_Group.003
+    400086: DoorFrame
+    400088: DoorFrame.001
+    400090: DoorFrame.002
+    400092: DoorFrame.003
+    400094: elin_t_and_shortsMesh
+    400096: Empty
+    400098: female_casualsuit02Mesh
+    400100: foot_l
+    400102: foot_r
+    400104: Frame
+    400106: Fridge
+    400108: Game_engine
+    400110: Glenkinchie.006
+    400112: Glenkinchie.007
+    400114: Hand IK
+    400116: hand_l
+    400118: hand_r
+    400120: Handle_Back
+    400122: Handle_Back.001
+    400124: Handle_Back.002
+    400126: Handle_Back.003
+    400128: Handle_Front
+    400130: Handle_Front.001
+    400132: Handle_Front.002
+    400134: Handle_Front.003
+    400136: head
+    400138: head_end
+    400140: head_end_end
+    400142: head_end_end_end
+    400144: head_end_end_end_end
+    400146: high-polyMesh
+    400148: //RootNode
+    400150: House.001
+    400152: index_01_l
+    400154: index_01_r
+    400156: index_02_l
+    400158: index_02_r
+    400160: index_03_l
+    400162: index_03_l_end
+    400164: index_03_l_end_end
+    400166: index_03_l_end_end_end
+    400168: index_03_l_end_end_end_end
+    400170: index_03_r
+    400172: index_03_r_end
+    400174: index_03_r_end_end
+    400176: index_03_r_end_end_end
+    400178: index_03_r_end_end_end_end
+    400180: lowerarm_l
+    400182: lowerarm_r
+    400184: mailbox
+    400186: middle_01_l
+    400188: middle_01_r
+    400190: middle_02_l
+    400192: middle_02_r
+    400194: middle_03_l
+    400196: middle_03_l_end
+    400198: middle_03_l_end_end
+    400200: middle_03_l_end_end_end
+    400202: middle_03_l_end_end_end_end
+    400204: middle_03_r
+    400206: middle_03_r_end
+    400208: middle_03_r_end_end
+    400210: middle_03_r_end_end_end
+    400212: middle_03_r_end_end_end_end
+    400214: neck_01
+    400216: Oven
+    400218: pelvis
+    400220: pinky_01_l
+    400222: pinky_01_r
+    400224: pinky_02_l
+    400226: pinky_02_r
+    400228: pinky_03_l
+    400230: pinky_03_l_end
+    400232: pinky_03_l_end_end
+    400234: pinky_03_l_end_end_end
+    400236: pinky_03_l_end_end_end_end
+    400238: pinky_03_r
+    400240: pinky_03_r_end
+    400242: pinky_03_r_end_end
+    400244: pinky_03_r_end_end_end
+    400246: pinky_03_r_end_end_end_end
+    400248: Plane
+    400250: Plane.001
+    400252: ponytail01Mesh
+    400254: Pot
+    400256: ring_01_l
+    400258: ring_01_r
+    400260: ring_02_l
+    400262: ring_02_r
+    400264: ring_03_l
+    400266: ring_03_l_end
+    400268: ring_03_l_end_end
+    400270: ring_03_l_end_end_end
+    400272: ring_03_l_end_end_end_end
+    400274: ring_03_r
+    400276: ring_03_r_end
+    400278: ring_03_r_end_end
+    400280: ring_03_r_end_end_end
+    400282: ring_03_r_end_end_end_end
+    400284: Roof
+    400286: Root
+    400288: sofa
+    400290: sofa.legs
+    400292: spine_01
+    400294: spine_02
+    400296: spine_03
+    400298: Steps
+    400300: table legs
+    400302: table top
+    400304: table.legs
+    400306: table.mirror.glass
+    400308: table.top
+    400310: thigh_l
+    400312: thigh_r
+    400314: thumb_01_l
+    400316: thumb_01_r
+    400318: thumb_02_l
+    400320: thumb_02_r
+    400322: thumb_03_l
+    400324: thumb_03_l_end
+    400326: thumb_03_l_end_end
+    400328: thumb_03_l_end_end_end
+    400330: thumb_03_l_end_end_end_end
+    400332: thumb_03_r
+    400334: thumb_03_r_end
+    400336: thumb_03_r_end_end
+    400338: thumb_03_r_end_end_end
+    400340: thumb_03_r_end_end_end_end
+    400342: upperarm_l
+    400344: upperarm_r
+    400346: Window Frame
+    400348: Windows
+    2100000: Material.002
+    2100002: table.top
+    2100004: table.mirror.glass
+    2100006: table.legs
+    2100008: couch
+    2100010: couch legs
+    2100012: Metal
+    2100014: walls
+    2100016: Roof
+    2100018: Material.006
+    2100020: Material.005
+    2100022: Material.008
+    2100024: Material.009
+    2100026: Material.003
+    2100028: Pillow
+    2100030: Sheets
+    2100032: No Name
+    2100034: Chimney
+    2100036: Steps
+    2100038: Frame
+    2100040: Window
+    2100042: Fridge
+    2100044: Fridge Trim
+    2100046: Fridge Grill
+    2100048: Fridge Wood
+    2100050: Leaf
+    2100052: Cup
+    2100054: White Keys
+    2100056: Silver
+    2100058: Material.004
+    2100060: Brick Red.001
+    2100062: Railing
+    2100064: Walls.001
+    2100066: metal.001
+    2100068: Dirt.001
+    2100070: silver toaster
+    2100072: beige
+    2100074: clock red
+    2100076: brownish
+    2100078: Material.007
+    2100080: BLACK
+    2100082: GLASS
+    2100084: Table Top.001
+    2100086: Piano Wood.000
+    2100088: Pot
+    2100090: Blade
+    2100092: GLASS.001
+    2100094: beige.001
+    2100096: BOTTLEGLASS
+    2100098: Piano Wood.002
+    2100100: Burner
+    2100102: Fridge.001
+    2100104: STOVE HANDLE
+    2100106: BEIGE
+    2100108: Railing.001
+    2100110: Silver.001
+    2100112: Black.002
+    2100114: Material.001
+    2100116: Door Frame
+    2100118: Door
+    2100120: Door Handle
+    2100122: ponytail01
+    2100124: Shorts
+    2100126: female_casualsuit02
+    2100128: lakers jersey
+    2100130: elin_t_and_shorts
+    2100132: high-poly
+    2100134: eye black
+    2100136: eye-blue
+    2100138: Eye Rim
+    2300000: bed
+    2300002: BezierCurve.003
+    2300004: blanket
+    2300006: chair cushion
+    2300008: chair front back
+    2300010: chair side
+    2300012: chair side 2
+    2300014: Chimney
+    2300016: Cube
+    2300018: Cube.001
+    2300020: Cube.002
+    2300022: Cube.003
+    2300024: Cube.004
+    2300026: Cube.005
+    2300028: Cube.006
+    2300030: Cube.011
+    2300032: Cube.012
+    2300034: Cube.026
+    2300036: Cylinder
+    2300038: Cylinder.001
+    2300040: Door
+    2300042: Door.001
+    2300044: Door.002
+    2300046: Door.003
+    2300048: Door.004
+    2300050: DoorFrame
+    2300052: DoorFrame.001
+    2300054: DoorFrame.002
+    2300056: DoorFrame.003
+    2300058: Frame
+    2300060: Fridge
+    2300062: Glenkinchie.006
+    2300064: Glenkinchie.007
+    2300066: Handle_Back
+    2300068: Handle_Back.001
+    2300070: Handle_Back.002
+    2300072: Handle_Back.003
+    2300074: Handle_Front
+    2300076: Handle_Front.001
+    2300078: Handle_Front.002
+    2300080: Handle_Front.003
+    2300082: House.001
+    2300084: mailbox
+    2300086: Oven
+    2300088: Plane
+    2300090: Plane.001
+    2300092: Pot
+    2300094: Roof
+    2300096: sofa
+    2300098: sofa.legs
+    2300100: Steps
+    2300102: table legs
+    2300104: table top
+    2300106: table.legs
+    2300108: table.mirror.glass
+    2300110: table.top
+    2300112: Window Frame
+    2300114: Windows
+    3300000: bed
+    3300002: BezierCurve.003
+    3300004: blanket
+    3300006: chair cushion
+    3300008: chair front back
+    3300010: chair side
+    3300012: chair side 2
+    3300014: Chimney
+    3300016: Cube
+    3300018: Cube.001
+    3300020: Cube.002
+    3300022: Cube.003
+    3300024: Cube.004
+    3300026: Cube.005
+    3300028: Cube.006
+    3300030: Cube.011
+    3300032: Cube.012
+    3300034: Cube.026
+    3300036: Cylinder
+    3300038: Cylinder.001
+    3300040: Door
+    3300042: Door.001
+    3300044: Door.002
+    3300046: Door.003
+    3300048: Door.004
+    3300050: DoorFrame
+    3300052: DoorFrame.001
+    3300054: DoorFrame.002
+    3300056: DoorFrame.003
+    3300058: Frame
+    3300060: Fridge
+    3300062: Glenkinchie.006
+    3300064: Glenkinchie.007
+    3300066: Handle_Back
+    3300068: Handle_Back.001
+    3300070: Handle_Back.002
+    3300072: Handle_Back.003
+    3300074: Handle_Front
+    3300076: Handle_Front.001
+    3300078: Handle_Front.002
+    3300080: Handle_Front.003
+    3300082: House.001
+    3300084: mailbox
+    3300086: Oven
+    3300088: Plane
+    3300090: Plane.001
+    3300092: Pot
+    3300094: Roof
+    3300096: sofa
+    3300098: sofa.legs
+    3300100: Steps
+    3300102: table legs
+    3300104: table top
+    3300106: table.legs
+    3300108: table.mirror.glass
+    3300110: table.top
+    3300112: Window Frame
+    3300114: Windows
+    4300000: table top
+    4300002: table legs
+    4300004: table.top
+    4300006: table.mirror.glass
+    4300008: table.legs
+    4300010: sofa
+    4300012: sofa.legs
+    4300014: Plane
+    4300016: blanket
+    4300018: Plane.001
+    4300020: chair side 2
+    4300022: chair side
+    4300024: chair front back
+    4300026: chair cushion
+    4300028: Cube
+    4300030: Cube.012
+    4300032: Cube.011
+    4300034: bed
+    4300036: Cube.006
+    4300038: Cube.005
+    4300040: Cube.004
+    4300042: Cube.003
+    4300044: Cube.002
+    4300046: Cube.001
+    4300048: mailbox
+    4300050: Cylinder
+    4300052: Cylinder.001
+    4300054: Chimney
+    4300056: Steps
+    4300058: Frame
+    4300060: Door
+    4300062: Window Frame
+    4300064: Windows
+    4300066: Roof
+    4300068: House.001
+    4300070: Fridge
+    4300072: BezierCurve.003
+    4300074: Glenkinchie.007
+    4300076: Glenkinchie.006
+    4300078: Cube.026
+    4300080: Oven
+    4300082: Pot
+    4300084: DoorFrame
+    4300086: Door.001
+    4300088: Handle_Front
+    4300090: Handle_Back
+    4300092: DoorFrame.001
+    4300094: Door.002
+    4300096: Handle_Back.001
+    4300098: Handle_Front.001
+    4300100: DoorFrame.002
+    4300102: Door.003
+    4300104: Handle_Front.002
+    4300106: Handle_Back.002
+    4300108: DoorFrame.003
+    4300110: Door.004
+    4300112: Handle_Back.003
+    4300114: Handle_Front.003
+    4300116: ponytail01Mesh
+    4300118: female_casualsuit02Mesh
+    4300120: elin_t_and_shortsMesh
+    4300122: high-polyMesh
+    7400000: blanket|Action
+    7400002: blanket|Action.001
+    7400004: blanket|blanket|blanket|Game_engine|Game_engine|Getting Up|Game_engine|
+    7400006: 'blanket|blanket|blanket|Key|Game_engine|Getting Up|Game_engine|Getting '
+    7400008: blanket|blanket|blanket|Sit Up|blanket|Sit Up
+    7400010: blanket|Game_engine|Game_engine|Key|Game_engine|Getting Up|Game_engine|
+    7400012: 'blanket|Key|Game_engine|Key|Game_engine|Getting Up|Game_engine|Getting '
+    7400014: Game_engine|Action
+    7400016: Game_engine|Action.001
+    7400018: Game_engine|blanket|blanket|Game_engine|Game_engine|Getting Up|Game_engine|
+    7400020: 'Game_engine|blanket|blanket|Key|Game_engine|Getting Up|Game_engine|Getting '
+    7400022: Game_engine|blanket|blanket|Sit Up|blanket|Sit Up
+    7400024: Game_engine|Game_engine|Game_engine|Game_engine|Game_engine|Getting Up|Game
+    7400026: Game_engine|Game_engine|Game_engine|Key|Game_engine|Getting Up|Game_engine|
+    7400028: Game_engine|Game_engine|Game_engine|Sit Up.001|Game_engine|Sit Up.001
+    7400030: Game_engine|Game_engine|Game_engine|Sit Up.002|Game_engine|Sit Up.002
+    7400032: Game_engine|Game_engine|Game_engine|Sit Up|Game_engine|Sit Up
+    7400034: 'Game_engine|Key|Game_engine|Key|Game_engine|Getting Up|Game_engine|Getting '
+    7400036: Game_engine|Sitting Up
+    9500000: //RootNode
+    13700000: elin_t_and_shortsMesh
+    13700002: female_casualsuit02Mesh
+    13700004: high-polyMesh
+    13700006: ponytail01Mesh
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
