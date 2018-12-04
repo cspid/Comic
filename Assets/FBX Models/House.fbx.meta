@@ -2380,6 +2380,737 @@ ModelImporter:
     104748: WGT-rig.001_VIS_upper_arm_ik_pole.L
     104750: WGT-rig.001_VIS_upper_arm_ik_pole.R
     104752: WGTS_rig.001
+    104754: breast.L_end
+    104756: breast.L_end 1
+    104758: breast.L_end 2
+    104760: breast.R_end
+    104762: breast.R_end 1
+    104764: breast.R_end 2
+    104766: brow.B.L.003_end
+    104768: brow.B.L.004_end
+    104770: brow.B.L.004_end 1
+    104772: brow.B.R.003_end
+    104774: brow.B.R.004_end
+    104776: brow.B.R.004_end 1
+    104778: brow.T.L.003_end
+    104780: brow.T.R.003_end
+    104782: chest_end
+    104784: chest_end 1
+    104786: chin.001_end
+    104788: chin.002_end
+    104790: chin.002_end 1
+    104792: DEF-breast.L_end
+    104794: DEF-breast.L_end 1
+    104796: DEF-breast.R_end
+    104798: DEF-breast.R_end 1
+    104800: DEF-brow.B.L.001_end
+    104802: DEF-brow.B.L.001_end 1
+    104804: DEF-brow.B.L.002_end
+    104806: DEF-brow.B.L.002_end 1
+    104808: DEF-brow.B.L.003_end
+    104810: DEF-brow.B.L.003_end 1
+    104812: DEF-brow.B.L_end
+    104814: DEF-brow.B.L_end 1
+    104816: DEF-brow.B.R.001_end
+    104818: DEF-brow.B.R.001_end 1
+    104820: DEF-brow.B.R.002_end
+    104822: DEF-brow.B.R.002_end 1
+    104824: DEF-brow.B.R.003_end
+    104826: DEF-brow.B.R.003_end 1
+    104828: DEF-brow.B.R_end
+    104830: DEF-brow.B.R_end 1
+    104832: DEF-brow.T.L.001_end
+    104834: DEF-brow.T.L.001_end 1
+    104836: DEF-brow.T.L.002_end
+    104838: DEF-brow.T.L.002_end 1
+    104840: DEF-brow.T.L.003_end
+    104842: DEF-brow.T.L.003_end 1
+    104844: DEF-brow.T.L_end
+    104846: DEF-brow.T.L_end 1
+    104848: DEF-brow.T.R.001_end
+    104850: DEF-brow.T.R.001_end 1
+    104852: DEF-brow.T.R.002_end
+    104854: DEF-brow.T.R.002_end 1
+    104856: DEF-brow.T.R.003_end
+    104858: DEF-brow.T.R.003_end 1
+    104860: DEF-brow.T.R_end
+    104862: DEF-brow.T.R_end 1
+    104864: DEF-cheek.B.L.001_end
+    104866: DEF-cheek.B.L.001_end 1
+    104868: DEF-cheek.B.L_end
+    104870: DEF-cheek.B.L_end 1
+    104872: DEF-cheek.B.R.001_end
+    104874: DEF-cheek.B.R.001_end 1
+    104876: DEF-cheek.B.R_end
+    104878: DEF-cheek.B.R_end 1
+    104880: DEF-cheek.T.L.001_end
+    104882: DEF-cheek.T.L.001_end 1
+    104884: DEF-cheek.T.L_end
+    104886: DEF-cheek.T.L_end 1
+    104888: DEF-cheek.T.R.001_end
+    104890: DEF-cheek.T.R.001_end 1
+    104892: DEF-cheek.T.R_end
+    104894: DEF-cheek.T.R_end 1
+    104896: DEF-chin.001_end
+    104898: DEF-chin.001_end 1
+    104900: DEF-chin.L_end
+    104902: DEF-chin.L_end 1
+    104904: DEF-chin.R_end
+    104906: DEF-chin.R_end 1
+    104908: DEF-chin_end
+    104910: DEF-chin_end 1
+    104912: DEF-ear.L.001_end
+    104914: DEF-ear.L.001_end 1
+    104916: DEF-ear.L.002_end
+    104918: DEF-ear.L.002_end 1
+    104920: DEF-ear.L.003_end
+    104922: DEF-ear.L.003_end 1
+    104924: DEF-ear.L.004_end
+    104926: DEF-ear.L.004_end 1
+    104928: DEF-ear.L_end
+    104930: DEF-ear.L_end 1
+    104932: DEF-ear.R.001_end
+    104934: DEF-ear.R.001_end 1
+    104936: DEF-ear.R.002_end
+    104938: DEF-ear.R.002_end 1
+    104940: DEF-ear.R.003_end
+    104942: DEF-ear.R.003_end 1
+    104944: DEF-ear.R.004_end
+    104946: DEF-ear.R.004_end 1
+    104948: DEF-ear.R_end
+    104950: DEF-ear.R_end 1
+    104952: DEF-f_index.03.L_end
+    104954: DEF-f_index.03.L_end 1
+    104956: DEF-f_index.03.R_end
+    104958: DEF-f_index.03.R_end 1
+    104960: DEF-f_middle.03.L_end
+    104962: DEF-f_middle.03.L_end 1
+    104964: DEF-f_middle.03.R_end
+    104966: DEF-f_middle.03.R_end 1
+    104968: DEF-f_pinky.03.L_end
+    104970: DEF-f_pinky.03.L_end 1
+    104972: DEF-f_pinky.03.R_end
+    104974: DEF-f_pinky.03.R_end 1
+    104976: DEF-f_ring.03.L_end
+    104978: DEF-f_ring.03.L_end 1
+    104980: DEF-f_ring.03.R_end
+    104982: DEF-f_ring.03.R_end 1
+    104984: DEF-forehead.L.001_end
+    104986: DEF-forehead.L.001_end 1
+    104988: DEF-forehead.L.002_end
+    104990: DEF-forehead.L.002_end 1
+    104992: DEF-forehead.L_end
+    104994: DEF-forehead.L_end 1
+    104996: DEF-forehead.R.001_end
+    104998: DEF-forehead.R.001_end 1
+    105000: DEF-forehead.R.002_end
+    105002: DEF-forehead.R.002_end 1
+    105004: DEF-forehead.R_end
+    105006: DEF-forehead.R_end 1
+    105008: DEF-jaw.L.001_end
+    105010: DEF-jaw.L.001_end 1
+    105012: DEF-jaw.L_end
+    105014: DEF-jaw.L_end 1
+    105016: DEF-jaw.R.001_end
+    105018: DEF-jaw.R.001_end 1
+    105020: DEF-jaw.R_end
+    105022: DEF-jaw.R_end 1
+    105024: DEF-jaw_end
+    105026: DEF-jaw_end 1
+    105028: DEF-lid.B.L.001_end
+    105030: DEF-lid.B.L.001_end 1
+    105032: DEF-lid.B.L.002_end
+    105034: DEF-lid.B.L.002_end 1
+    105036: DEF-lid.B.L.003_end
+    105038: DEF-lid.B.L.003_end 1
+    105040: DEF-lid.B.L_end
+    105042: DEF-lid.B.L_end 1
+    105044: DEF-lid.B.R.001_end
+    105046: DEF-lid.B.R.001_end 1
+    105048: DEF-lid.B.R.002_end
+    105050: DEF-lid.B.R.002_end 1
+    105052: DEF-lid.B.R.003_end
+    105054: DEF-lid.B.R.003_end 1
+    105056: DEF-lid.B.R_end
+    105058: DEF-lid.B.R_end 1
+    105060: DEF-lid.T.L.001_end
+    105062: DEF-lid.T.L.001_end 1
+    105064: DEF-lid.T.L.002_end
+    105066: DEF-lid.T.L.002_end 1
+    105068: DEF-lid.T.L.003_end
+    105070: DEF-lid.T.L.003_end 1
+    105072: DEF-lid.T.L_end
+    105074: DEF-lid.T.L_end 1
+    105076: DEF-lid.T.R.001_end
+    105078: DEF-lid.T.R.001_end 1
+    105080: DEF-lid.T.R.002_end
+    105082: DEF-lid.T.R.002_end 1
+    105084: DEF-lid.T.R.003_end
+    105086: DEF-lid.T.R.003_end 1
+    105088: DEF-lid.T.R_end
+    105090: DEF-lid.T.R_end 1
+    105092: DEF-lip.B.L.001_end
+    105094: DEF-lip.B.L.001_end 1
+    105096: DEF-lip.B.L_end
+    105098: DEF-lip.B.L_end 1
+    105100: DEF-lip.B.R.001_end
+    105102: DEF-lip.B.R.001_end 1
+    105104: DEF-lip.B.R_end
+    105106: DEF-lip.B.R_end 1
+    105108: DEF-lip.T.L.001_end
+    105110: DEF-lip.T.L.001_end 1
+    105112: DEF-lip.T.L_end
+    105114: DEF-lip.T.L_end 1
+    105116: DEF-lip.T.R.001_end
+    105118: DEF-lip.T.R.001_end 1
+    105120: DEF-lip.T.R_end
+    105122: DEF-lip.T.R_end 1
+    105124: DEF-nose.001_end
+    105126: DEF-nose.001_end 1
+    105128: DEF-nose.002_end
+    105130: DEF-nose.002_end 1
+    105132: DEF-nose.003_end
+    105134: DEF-nose.003_end 1
+    105136: DEF-nose.004_end
+    105138: DEF-nose.004_end 1
+    105140: DEF-nose.L.001_end
+    105142: DEF-nose.L.001_end 1
+    105144: DEF-nose.L_end
+    105146: DEF-nose.L_end 1
+    105148: DEF-nose.R.001_end
+    105150: DEF-nose.R.001_end 1
+    105152: DEF-nose.R_end
+    105154: DEF-nose.R_end 1
+    105156: DEF-nose_end
+    105158: DEF-nose_end 1
+    105160: DEF-palm.01.L_end
+    105162: DEF-palm.01.L_end 1
+    105164: DEF-palm.01.R_end
+    105166: DEF-palm.01.R_end 1
+    105168: DEF-palm.02.L_end
+    105170: DEF-palm.02.L_end 1
+    105172: DEF-palm.02.R_end
+    105174: DEF-palm.02.R_end 1
+    105176: DEF-palm.03.L_end
+    105178: DEF-palm.03.L_end 1
+    105180: DEF-palm.03.R_end
+    105182: DEF-palm.03.R_end 1
+    105184: DEF-palm.04.L_end
+    105186: DEF-palm.04.L_end 1
+    105188: DEF-palm.04.R_end
+    105190: DEF-palm.04.R_end 1
+    105192: DEF-pelvis.L_end
+    105194: DEF-pelvis.L_end 1
+    105196: DEF-pelvis.R_end
+    105198: DEF-pelvis.R_end 1
+    105200: DEF-shoulder.L_end
+    105202: DEF-shoulder.L_end 1
+    105204: DEF-shoulder.R_end
+    105206: DEF-shoulder.R_end 1
+    105208: DEF-spine.006_end
+    105210: DEF-spine.006_end 1
+    105212: DEF-temple.L_end
+    105214: DEF-temple.L_end 1
+    105216: DEF-temple.R_end
+    105218: DEF-temple.R_end 1
+    105220: DEF-thumb.03.L_end
+    105222: DEF-thumb.03.L_end 1
+    105224: DEF-thumb.03.R_end
+    105226: DEF-thumb.03.R_end 1
+    105228: DEF-toe.L_end
+    105230: DEF-toe.L_end 1
+    105232: DEF-toe.R_end
+    105234: DEF-toe.R_end 1
+    105236: DEF-tongue.001_end
+    105238: DEF-tongue.001_end 1
+    105240: DEF-tongue.002_end
+    105242: DEF-tongue.002_end 1
+    105244: DEF-tongue_end
+    105246: DEF-tongue_end 1
+    105248: ear.L.004_end
+    105250: ear.R.004_end
+    105252: eye.L_end
+    105254: eye.L_end 1
+    105256: eye.L_end 2
+    105258: eye.R_end
+    105260: eye.R_end 1
+    105262: eye.R_end 2
+    105264: f_index.03.L_end
+    105266: f_index.03.L_end 1
+    105268: f_index.03.R_end
+    105270: f_index.03.R_end 1
+    105272: f_middle.03.L_end
+    105274: f_middle.03.L_end 1
+    105276: f_middle.03.R_end
+    105278: f_middle.03.R_end 1
+    105280: f_pinky.03.L_end
+    105282: f_pinky.03.L_end 1
+    105284: f_pinky.03.R_end
+    105286: f_pinky.03.R_end 1
+    105288: f_ring.03.L_end
+    105290: f_ring.03.L_end 1
+    105292: f_ring.03.R_end
+    105294: f_ring.03.R_end 1
+    105296: face_end
+    105298: foot_fk.L_end
+    105300: foot_fk.L_end 1
+    105302: foot_fk.R_end
+    105304: foot_fk.R_end 1
+    105306: foot_l_end
+    105308: foot_r_end
+    105310: foot_tweak.L_end
+    105312: foot_tweak.L_end 1
+    105314: foot_tweak.R_end
+    105316: foot_tweak.R_end 1
+    105318: forearm_tweak.L.001_end
+    105320: forearm_tweak.L.001_end 1
+    105322: forearm_tweak.L_end
+    105324: forearm_tweak.L_end 1
+    105326: forearm_tweak.R.001_end
+    105328: forearm_tweak.R.001_end 1
+    105330: forearm_tweak.R_end
+    105332: forearm_tweak.R_end 1
+    105334: hand_fk.L_end
+    105336: hand_fk.L_end 1
+    105338: hand_fk.R_end
+    105340: hand_fk.R_end 1
+    105342: hand_tweak.L_end
+    105344: hand_tweak.L_end 1
+    105346: hand_tweak.R_end
+    105348: hand_tweak.R_end 1
+    105350: heel.02.L_end
+    105352: heel.02.L_end 1
+    105354: heel.02.R_end
+    105356: heel.02.R_end 1
+    105358: hips_end
+    105360: hips_end 1
+    105362: lid.B.L.003_end
+    105364: lid.B.R.003_end
+    105366: lip.B.L.001_end
+    105368: lip.B.R.001_end
+    105370: lip.T.L.001_end
+    105372: lip.T.R.001_end
+    105374: MCH-eye.L.001_end
+    105376: MCH-eye.L.001_end 1
+    105378: MCH-eye.R.001_end
+    105380: MCH-eye.R.001_end 1
+    105382: MCH-foot_ik_parent.L_end
+    105384: MCH-foot_ik_parent.L_end 1
+    105386: MCH-foot_ik_parent.R_end
+    105388: MCH-foot_ik_parent.R_end 1
+    105390: MCH-foot_ik_root.L_end
+    105392: MCH-foot_ik_root.L_end 1
+    105394: MCH-foot_ik_root.R_end
+    105396: MCH-foot_ik_root.R_end 1
+    105398: MCH-hand_ik_parent.L_end
+    105400: MCH-hand_ik_parent.L_end 1
+    105402: MCH-hand_ik_parent.R_end
+    105404: MCH-hand_ik_parent.R_end 1
+    105406: MCH-hand_ik_root.L_end
+    105408: MCH-hand_ik_root.L_end 1
+    105410: MCH-hand_ik_root.R_end
+    105412: MCH-hand_ik_root.R_end 1
+    105414: MCH-heel.02_roll.L_end
+    105416: MCH-heel.02_roll.L_end 1
+    105418: MCH-heel.02_roll.R_end
+    105420: MCH-heel.02_roll.R_end 1
+    105422: MCH-mouth_lock_end
+    105424: MCH-mouth_lock_end 1
+    105426: MCH-thigh_ik.L_end
+    105428: MCH-thigh_ik.L_end 1
+    105430: MCH-thigh_ik.R_end
+    105432: MCH-thigh_ik.R_end 1
+    105434: MCH-thigh_ik_stretch.L_end
+    105436: MCH-thigh_ik_stretch.L_end 1
+    105438: MCH-thigh_ik_stretch.R_end
+    105440: MCH-thigh_ik_stretch.R_end 1
+    105442: MCH-thigh_ik_target.L_end
+    105444: MCH-thigh_ik_target.L_end 1
+    105446: MCH-thigh_ik_target.R_end
+    105448: MCH-thigh_ik_target.R_end 1
+    105450: MCH-upper_arm_ik.L_end
+    105452: MCH-upper_arm_ik.L_end 1
+    105454: MCH-upper_arm_ik.R_end
+    105456: MCH-upper_arm_ik.R_end 1
+    105458: MCH-upper_arm_ik_stretch.L_end
+    105460: MCH-upper_arm_ik_stretch.L_end 1
+    105462: MCH-upper_arm_ik_stretch.R_end
+    105464: MCH-upper_arm_ik_stretch.R_end 1
+    105466: MCH-upper_arm_ik_target.L_end
+    105468: MCH-upper_arm_ik_target.L_end 1
+    105470: MCH-upper_arm_ik_target.R_end
+    105472: MCH-upper_arm_ik_target.R_end 1
+    105474: MCH-WGT-chest_end
+    105476: MCH-WGT-chest_end 1
+    105478: MCH-WGT-hips_end
+    105480: MCH-WGT-hips_end 1
+    105482: nose.004_end
+    105484: nose.005_end
+    105486: nose.005_end 1
+    105488: nose.L.001_end
+    105490: nose.R.001_end
+    105492: ORG-brow.B.L.001_end
+    105494: ORG-brow.B.L.001_end 1
+    105496: ORG-brow.B.L.002_end
+    105498: ORG-brow.B.L.002_end 1
+    105500: ORG-brow.B.L.003_end
+    105502: ORG-brow.B.L.003_end 1
+    105504: ORG-brow.B.L_end
+    105506: ORG-brow.B.L_end 1
+    105508: ORG-brow.B.R.001_end
+    105510: ORG-brow.B.R.001_end 1
+    105512: ORG-brow.B.R.002_end
+    105514: ORG-brow.B.R.002_end 1
+    105516: ORG-brow.B.R.003_end
+    105518: ORG-brow.B.R.003_end 1
+    105520: ORG-brow.B.R_end
+    105522: ORG-brow.B.R_end 1
+    105524: ORG-brow.T.L.001_end
+    105526: ORG-brow.T.L.001_end 1
+    105528: ORG-brow.T.L.002_end
+    105530: ORG-brow.T.L.002_end 1
+    105532: ORG-brow.T.L.003_end
+    105534: ORG-brow.T.L.003_end 1
+    105536: ORG-brow.T.L_end
+    105538: ORG-brow.T.L_end 1
+    105540: ORG-brow.T.R.001_end
+    105542: ORG-brow.T.R.001_end 1
+    105544: ORG-brow.T.R.002_end
+    105546: ORG-brow.T.R.002_end 1
+    105548: ORG-brow.T.R.003_end
+    105550: ORG-brow.T.R.003_end 1
+    105552: ORG-brow.T.R_end
+    105554: ORG-brow.T.R_end 1
+    105556: ORG-cheek.B.L.001_end
+    105558: ORG-cheek.B.L.001_end 1
+    105560: ORG-cheek.B.L_end
+    105562: ORG-cheek.B.L_end 1
+    105564: ORG-cheek.B.R.001_end
+    105566: ORG-cheek.B.R.001_end 1
+    105568: ORG-cheek.B.R_end
+    105570: ORG-cheek.B.R_end 1
+    105572: ORG-cheek.T.L.001_end
+    105574: ORG-cheek.T.L.001_end 1
+    105576: ORG-cheek.T.L_end
+    105578: ORG-cheek.T.L_end 1
+    105580: ORG-cheek.T.R.001_end
+    105582: ORG-cheek.T.R.001_end 1
+    105584: ORG-cheek.T.R_end
+    105586: ORG-cheek.T.R_end 1
+    105588: ORG-chin.001_end
+    105590: ORG-chin.001_end 1
+    105592: ORG-chin.L_end
+    105594: ORG-chin.L_end 1
+    105596: ORG-chin.R_end
+    105598: ORG-chin.R_end 1
+    105600: ORG-chin_end
+    105602: ORG-chin_end 1
+    105604: ORG-ear.L.001_end
+    105606: ORG-ear.L.001_end 1
+    105608: ORG-ear.L.002_end
+    105610: ORG-ear.L.002_end 1
+    105612: ORG-ear.L.003_end
+    105614: ORG-ear.L.003_end 1
+    105616: ORG-ear.L.004_end
+    105618: ORG-ear.L.004_end 1
+    105620: ORG-ear.L_end
+    105622: ORG-ear.L_end 1
+    105624: ORG-ear.R.001_end
+    105626: ORG-ear.R.001_end 1
+    105628: ORG-ear.R.002_end
+    105630: ORG-ear.R.002_end 1
+    105632: ORG-ear.R.003_end
+    105634: ORG-ear.R.003_end 1
+    105636: ORG-ear.R.004_end
+    105638: ORG-ear.R.004_end 1
+    105640: ORG-ear.R_end
+    105642: ORG-ear.R_end 1
+    105644: ORG-eye.L_end
+    105646: ORG-eye.L_end 1
+    105648: ORG-eye.R_end
+    105650: ORG-eye.R_end 1
+    105652: ORG-f_index.01.L_end
+    105654: ORG-f_index.01.L_end 1
+    105656: ORG-f_index.01.R_end
+    105658: ORG-f_index.01.R_end 1
+    105660: ORG-f_index.02.L_end
+    105662: ORG-f_index.02.L_end 1
+    105664: ORG-f_index.02.R_end
+    105666: ORG-f_index.02.R_end 1
+    105668: ORG-f_index.03.L_end
+    105670: ORG-f_index.03.L_end 1
+    105672: ORG-f_index.03.R_end
+    105674: ORG-f_index.03.R_end 1
+    105676: ORG-f_middle.01.L_end
+    105678: ORG-f_middle.01.L_end 1
+    105680: ORG-f_middle.01.R_end
+    105682: ORG-f_middle.01.R_end 1
+    105684: ORG-f_middle.02.L_end
+    105686: ORG-f_middle.02.L_end 1
+    105688: ORG-f_middle.02.R_end
+    105690: ORG-f_middle.02.R_end 1
+    105692: ORG-f_middle.03.L_end
+    105694: ORG-f_middle.03.L_end 1
+    105696: ORG-f_middle.03.R_end
+    105698: ORG-f_middle.03.R_end 1
+    105700: ORG-f_pinky.01.L_end
+    105702: ORG-f_pinky.01.L_end 1
+    105704: ORG-f_pinky.01.R_end
+    105706: ORG-f_pinky.01.R_end 1
+    105708: ORG-f_pinky.02.L_end
+    105710: ORG-f_pinky.02.L_end 1
+    105712: ORG-f_pinky.02.R_end
+    105714: ORG-f_pinky.02.R_end 1
+    105716: ORG-f_pinky.03.L_end
+    105718: ORG-f_pinky.03.L_end 1
+    105720: ORG-f_pinky.03.R_end
+    105722: ORG-f_pinky.03.R_end 1
+    105724: ORG-f_ring.01.L_end
+    105726: ORG-f_ring.01.L_end 1
+    105728: ORG-f_ring.01.R_end
+    105730: ORG-f_ring.01.R_end 1
+    105732: ORG-f_ring.02.L_end
+    105734: ORG-f_ring.02.L_end 1
+    105736: ORG-f_ring.02.R_end
+    105738: ORG-f_ring.02.R_end 1
+    105740: ORG-f_ring.03.L_end
+    105742: ORG-f_ring.03.L_end 1
+    105744: ORG-f_ring.03.R_end
+    105746: ORG-f_ring.03.R_end 1
+    105748: ORG-forehead.L.001_end
+    105750: ORG-forehead.L.001_end 1
+    105752: ORG-forehead.L.002_end
+    105754: ORG-forehead.L.002_end 1
+    105756: ORG-forehead.L_end
+    105758: ORG-forehead.L_end 1
+    105760: ORG-forehead.R.001_end
+    105762: ORG-forehead.R.001_end 1
+    105764: ORG-forehead.R.002_end
+    105766: ORG-forehead.R.002_end 1
+    105768: ORG-forehead.R_end
+    105770: ORG-forehead.R_end 1
+    105772: ORG-heel.02.L_end
+    105774: ORG-heel.02.L_end 1
+    105776: ORG-heel.02.R_end
+    105778: ORG-heel.02.R_end 1
+    105780: ORG-jaw.L.001_end
+    105782: ORG-jaw.L.001_end 1
+    105784: ORG-jaw.L_end
+    105786: ORG-jaw.L_end 1
+    105788: ORG-jaw.R.001_end
+    105790: ORG-jaw.R.001_end 1
+    105792: ORG-jaw.R_end
+    105794: ORG-jaw.R_end 1
+    105796: ORG-jaw_end
+    105798: ORG-jaw_end 1
+    105800: ORG-lid.B.L.001_end
+    105802: ORG-lid.B.L.001_end 1
+    105804: ORG-lid.B.L.002_end
+    105806: ORG-lid.B.L.002_end 1
+    105808: ORG-lid.B.L.003_end
+    105810: ORG-lid.B.L.003_end 1
+    105812: ORG-lid.B.L_end
+    105814: ORG-lid.B.L_end 1
+    105816: ORG-lid.B.R.001_end
+    105818: ORG-lid.B.R.001_end 1
+    105820: ORG-lid.B.R.002_end
+    105822: ORG-lid.B.R.002_end 1
+    105824: ORG-lid.B.R.003_end
+    105826: ORG-lid.B.R.003_end 1
+    105828: ORG-lid.B.R_end
+    105830: ORG-lid.B.R_end 1
+    105832: ORG-lid.T.L.001_end
+    105834: ORG-lid.T.L.001_end 1
+    105836: ORG-lid.T.L.002_end
+    105838: ORG-lid.T.L.002_end 1
+    105840: ORG-lid.T.L.003_end
+    105842: ORG-lid.T.L.003_end 1
+    105844: ORG-lid.T.L_end
+    105846: ORG-lid.T.L_end 1
+    105848: ORG-lid.T.R.001_end
+    105850: ORG-lid.T.R.001_end 1
+    105852: ORG-lid.T.R.002_end
+    105854: ORG-lid.T.R.002_end 1
+    105856: ORG-lid.T.R.003_end
+    105858: ORG-lid.T.R.003_end 1
+    105860: ORG-lid.T.R_end
+    105862: ORG-lid.T.R_end 1
+    105864: ORG-lip.B.L.001_end
+    105866: ORG-lip.B.L.001_end 1
+    105868: ORG-lip.B.L_end
+    105870: ORG-lip.B.L_end 1
+    105872: ORG-lip.B.R.001_end
+    105874: ORG-lip.B.R.001_end 1
+    105876: ORG-lip.B.R_end
+    105878: ORG-lip.B.R_end 1
+    105880: ORG-lip.T.L.001_end
+    105882: ORG-lip.T.L.001_end 1
+    105884: ORG-lip.T.L_end
+    105886: ORG-lip.T.L_end 1
+    105888: ORG-lip.T.R.001_end
+    105890: ORG-lip.T.R.001_end 1
+    105892: ORG-lip.T.R_end
+    105894: ORG-lip.T.R_end 1
+    105896: ORG-nose.001_end
+    105898: ORG-nose.001_end 1
+    105900: ORG-nose.002_end
+    105902: ORG-nose.002_end 1
+    105904: ORG-nose.003_end
+    105906: ORG-nose.003_end 1
+    105908: ORG-nose.004_end
+    105910: ORG-nose.004_end 1
+    105912: ORG-nose.L.001_end
+    105914: ORG-nose.L.001_end 1
+    105916: ORG-nose.L_end
+    105918: ORG-nose.L_end 1
+    105920: ORG-nose.R.001_end
+    105922: ORG-nose.R.001_end 1
+    105924: ORG-nose.R_end
+    105926: ORG-nose.R_end 1
+    105928: ORG-nose_end
+    105930: ORG-nose_end 1
+    105932: ORG-spine.001_end
+    105934: ORG-spine.001_end 1
+    105936: ORG-spine.002_end
+    105938: ORG-spine.002_end 1
+    105940: ORG-spine.004_end
+    105942: ORG-spine.004_end 1
+    105944: ORG-spine.005_end
+    105946: ORG-spine.005_end 1
+    105948: ORG-teeth.B_end
+    105950: ORG-teeth.B_end 1
+    105952: ORG-teeth.T_end
+    105954: ORG-teeth.T_end 1
+    105956: ORG-temple.L_end
+    105958: ORG-temple.L_end 1
+    105960: ORG-temple.R_end
+    105962: ORG-temple.R_end 1
+    105964: ORG-thumb.01.L_end
+    105966: ORG-thumb.01.L_end 1
+    105968: ORG-thumb.01.R_end
+    105970: ORG-thumb.01.R_end 1
+    105972: ORG-thumb.02.L_end
+    105974: ORG-thumb.02.L_end 1
+    105976: ORG-thumb.02.R_end
+    105978: ORG-thumb.02.R_end 1
+    105980: ORG-thumb.03.L_end
+    105982: ORG-thumb.03.L_end 1
+    105984: ORG-thumb.03.R_end
+    105986: ORG-thumb.03.R_end 1
+    105988: ORG-toe.L_end
+    105990: ORG-toe.L_end 1
+    105992: ORG-toe.R_end
+    105994: ORG-toe.R_end 1
+    105996: ORG-tongue.001_end
+    105998: ORG-tongue.001_end 1
+    106000: ORG-tongue.002_end
+    106002: ORG-tongue.002_end 1
+    106004: ORG-tongue_end
+    106006: ORG-tongue_end 1
+    106008: palm.L_end
+    106010: palm.L_end 1
+    106012: palm.R_end
+    106014: palm.R_end 1
+    106016: pelvis.L_end
+    106018: pelvis.R_end
+    106020: shin_tweak.L.001_end
+    106022: shin_tweak.L.001_end 1
+    106024: shin_tweak.L_end
+    106026: shin_tweak.L_end 1
+    106028: shin_tweak.R.001_end
+    106030: shin_tweak.R.001_end 1
+    106032: shin_tweak.R_end
+    106034: shin_tweak.R_end 1
+    106036: shoulder.L_end
+    106038: shoulder.L_end 1
+    106040: shoulder.R_end
+    106042: shoulder.R_end 1
+    106044: teeth.B_end
+    106046: teeth.B_end 1
+    106048: teeth.B_end 2
+    106050: teeth.T_end
+    106052: teeth.T_end 1
+    106054: teeth.T_end 2
+    106056: thigh_ik_target.L_end
+    106058: thigh_ik_target.L_end 1
+    106060: thigh_ik_target.R_end
+    106062: thigh_ik_target.R_end 1
+    106064: thigh_parent.L_end
+    106066: thigh_parent.L_end 1
+    106068: thigh_parent.R_end
+    106070: thigh_parent.R_end 1
+    106072: thigh_tweak.L.001_end
+    106074: thigh_tweak.L.001_end 1
+    106076: thigh_tweak.L_end
+    106078: thigh_tweak.L_end 1
+    106080: thigh_tweak.R.001_end
+    106082: thigh_tweak.R.001_end 1
+    106084: thigh_tweak.R_end
+    106086: thigh_tweak.R_end 1
+    106088: thumb.03.L_end
+    106090: thumb.03.L_end 1
+    106092: thumb.03.R_end
+    106094: thumb.03.R_end 1
+    106096: toe.L_end
+    106098: toe.L_end 1
+    106100: toe.L_end 2
+    106102: toe.L_end 3
+    106104: toe.R_end
+    106106: toe.R_end 1
+    106108: toe.R_end 2
+    106110: toe.R_end 3
+    106112: tongue.002_end
+    106114: tongue.003_end
+    106116: tongue.003_end 1
+    106118: tweak_f_index.03.L.001_end
+    106120: tweak_f_index.03.L.001_end 1
+    106122: tweak_f_index.03.R.001_end
+    106124: tweak_f_index.03.R.001_end 1
+    106126: tweak_f_middle.03.L.001_end
+    106128: tweak_f_middle.03.L.001_end 1
+    106130: tweak_f_middle.03.R.001_end
+    106132: tweak_f_middle.03.R.001_end 1
+    106134: tweak_f_pinky.03.L.001_end
+    106136: tweak_f_pinky.03.L.001_end 1
+    106138: tweak_f_pinky.03.R.001_end
+    106140: tweak_f_pinky.03.R.001_end 1
+    106142: tweak_f_ring.03.L.001_end
+    106144: tweak_f_ring.03.L.001_end 1
+    106146: tweak_f_ring.03.R.001_end
+    106148: tweak_f_ring.03.R.001_end 1
+    106150: tweak_thumb.03.L.001_end
+    106152: tweak_thumb.03.L.001_end 1
+    106154: tweak_thumb.03.R.001_end
+    106156: tweak_thumb.03.R.001_end 1
+    106158: upper_arm_ik_target.L_end
+    106160: upper_arm_ik_target.L_end 1
+    106162: upper_arm_ik_target.R_end
+    106164: upper_arm_ik_target.R_end 1
+    106166: upper_arm_parent.L_end
+    106168: upper_arm_parent.L_end 1
+    106170: upper_arm_parent.R_end
+    106172: upper_arm_parent.R_end 1
+    106174: upper_arm_tweak.L.001_end
+    106176: upper_arm_tweak.L.001_end 1
+    106178: upper_arm_tweak.L_end
+    106180: upper_arm_tweak.L_end 1
+    106182: upper_arm_tweak.R.001_end
+    106184: upper_arm_tweak.R.001_end 1
+    106186: upper_arm_tweak.R_end
+    106188: upper_arm_tweak.R_end 1
+    106190: VIS_thigh_ik_pole.L_end
+    106192: VIS_thigh_ik_pole.L_end 1
+    106194: VIS_thigh_ik_pole.R_end
+    106196: VIS_thigh_ik_pole.R_end 1
+    106198: VIS_upper_arm_ik_pole.L_end
+    106200: VIS_upper_arm_ik_pole.L_end 1
+    106202: VIS_upper_arm_ik_pole.R_end
+    106204: VIS_upper_arm_ik_pole.R_end 1
+    106206: Door.006
+    106208: Door.007
+    106210: DoorFrame.004
+    106212: Handle_Back.004
+    106214: Handle_Front.004
     400000: Cylinder
     400002: Cylinder.001
     400004: //RootNode
@@ -4757,6 +5488,737 @@ ModelImporter:
     404748: WGT-rig.001_VIS_upper_arm_ik_pole.L
     404750: WGT-rig.001_VIS_upper_arm_ik_pole.R
     404752: WGTS_rig.001
+    404754: breast.L_end
+    404756: breast.L_end 1
+    404758: breast.L_end 2
+    404760: breast.R_end
+    404762: breast.R_end 1
+    404764: breast.R_end 2
+    404766: brow.B.L.003_end
+    404768: brow.B.L.004_end
+    404770: brow.B.L.004_end 1
+    404772: brow.B.R.003_end
+    404774: brow.B.R.004_end
+    404776: brow.B.R.004_end 1
+    404778: brow.T.L.003_end
+    404780: brow.T.R.003_end
+    404782: chest_end
+    404784: chest_end 1
+    404786: chin.001_end
+    404788: chin.002_end
+    404790: chin.002_end 1
+    404792: DEF-breast.L_end
+    404794: DEF-breast.L_end 1
+    404796: DEF-breast.R_end
+    404798: DEF-breast.R_end 1
+    404800: DEF-brow.B.L.001_end
+    404802: DEF-brow.B.L.001_end 1
+    404804: DEF-brow.B.L.002_end
+    404806: DEF-brow.B.L.002_end 1
+    404808: DEF-brow.B.L.003_end
+    404810: DEF-brow.B.L.003_end 1
+    404812: DEF-brow.B.L_end
+    404814: DEF-brow.B.L_end 1
+    404816: DEF-brow.B.R.001_end
+    404818: DEF-brow.B.R.001_end 1
+    404820: DEF-brow.B.R.002_end
+    404822: DEF-brow.B.R.002_end 1
+    404824: DEF-brow.B.R.003_end
+    404826: DEF-brow.B.R.003_end 1
+    404828: DEF-brow.B.R_end
+    404830: DEF-brow.B.R_end 1
+    404832: DEF-brow.T.L.001_end
+    404834: DEF-brow.T.L.001_end 1
+    404836: DEF-brow.T.L.002_end
+    404838: DEF-brow.T.L.002_end 1
+    404840: DEF-brow.T.L.003_end
+    404842: DEF-brow.T.L.003_end 1
+    404844: DEF-brow.T.L_end
+    404846: DEF-brow.T.L_end 1
+    404848: DEF-brow.T.R.001_end
+    404850: DEF-brow.T.R.001_end 1
+    404852: DEF-brow.T.R.002_end
+    404854: DEF-brow.T.R.002_end 1
+    404856: DEF-brow.T.R.003_end
+    404858: DEF-brow.T.R.003_end 1
+    404860: DEF-brow.T.R_end
+    404862: DEF-brow.T.R_end 1
+    404864: DEF-cheek.B.L.001_end
+    404866: DEF-cheek.B.L.001_end 1
+    404868: DEF-cheek.B.L_end
+    404870: DEF-cheek.B.L_end 1
+    404872: DEF-cheek.B.R.001_end
+    404874: DEF-cheek.B.R.001_end 1
+    404876: DEF-cheek.B.R_end
+    404878: DEF-cheek.B.R_end 1
+    404880: DEF-cheek.T.L.001_end
+    404882: DEF-cheek.T.L.001_end 1
+    404884: DEF-cheek.T.L_end
+    404886: DEF-cheek.T.L_end 1
+    404888: DEF-cheek.T.R.001_end
+    404890: DEF-cheek.T.R.001_end 1
+    404892: DEF-cheek.T.R_end
+    404894: DEF-cheek.T.R_end 1
+    404896: DEF-chin.001_end
+    404898: DEF-chin.001_end 1
+    404900: DEF-chin.L_end
+    404902: DEF-chin.L_end 1
+    404904: DEF-chin.R_end
+    404906: DEF-chin.R_end 1
+    404908: DEF-chin_end
+    404910: DEF-chin_end 1
+    404912: DEF-ear.L.001_end
+    404914: DEF-ear.L.001_end 1
+    404916: DEF-ear.L.002_end
+    404918: DEF-ear.L.002_end 1
+    404920: DEF-ear.L.003_end
+    404922: DEF-ear.L.003_end 1
+    404924: DEF-ear.L.004_end
+    404926: DEF-ear.L.004_end 1
+    404928: DEF-ear.L_end
+    404930: DEF-ear.L_end 1
+    404932: DEF-ear.R.001_end
+    404934: DEF-ear.R.001_end 1
+    404936: DEF-ear.R.002_end
+    404938: DEF-ear.R.002_end 1
+    404940: DEF-ear.R.003_end
+    404942: DEF-ear.R.003_end 1
+    404944: DEF-ear.R.004_end
+    404946: DEF-ear.R.004_end 1
+    404948: DEF-ear.R_end
+    404950: DEF-ear.R_end 1
+    404952: DEF-f_index.03.L_end
+    404954: DEF-f_index.03.L_end 1
+    404956: DEF-f_index.03.R_end
+    404958: DEF-f_index.03.R_end 1
+    404960: DEF-f_middle.03.L_end
+    404962: DEF-f_middle.03.L_end 1
+    404964: DEF-f_middle.03.R_end
+    404966: DEF-f_middle.03.R_end 1
+    404968: DEF-f_pinky.03.L_end
+    404970: DEF-f_pinky.03.L_end 1
+    404972: DEF-f_pinky.03.R_end
+    404974: DEF-f_pinky.03.R_end 1
+    404976: DEF-f_ring.03.L_end
+    404978: DEF-f_ring.03.L_end 1
+    404980: DEF-f_ring.03.R_end
+    404982: DEF-f_ring.03.R_end 1
+    404984: DEF-forehead.L.001_end
+    404986: DEF-forehead.L.001_end 1
+    404988: DEF-forehead.L.002_end
+    404990: DEF-forehead.L.002_end 1
+    404992: DEF-forehead.L_end
+    404994: DEF-forehead.L_end 1
+    404996: DEF-forehead.R.001_end
+    404998: DEF-forehead.R.001_end 1
+    405000: DEF-forehead.R.002_end
+    405002: DEF-forehead.R.002_end 1
+    405004: DEF-forehead.R_end
+    405006: DEF-forehead.R_end 1
+    405008: DEF-jaw.L.001_end
+    405010: DEF-jaw.L.001_end 1
+    405012: DEF-jaw.L_end
+    405014: DEF-jaw.L_end 1
+    405016: DEF-jaw.R.001_end
+    405018: DEF-jaw.R.001_end 1
+    405020: DEF-jaw.R_end
+    405022: DEF-jaw.R_end 1
+    405024: DEF-jaw_end
+    405026: DEF-jaw_end 1
+    405028: DEF-lid.B.L.001_end
+    405030: DEF-lid.B.L.001_end 1
+    405032: DEF-lid.B.L.002_end
+    405034: DEF-lid.B.L.002_end 1
+    405036: DEF-lid.B.L.003_end
+    405038: DEF-lid.B.L.003_end 1
+    405040: DEF-lid.B.L_end
+    405042: DEF-lid.B.L_end 1
+    405044: DEF-lid.B.R.001_end
+    405046: DEF-lid.B.R.001_end 1
+    405048: DEF-lid.B.R.002_end
+    405050: DEF-lid.B.R.002_end 1
+    405052: DEF-lid.B.R.003_end
+    405054: DEF-lid.B.R.003_end 1
+    405056: DEF-lid.B.R_end
+    405058: DEF-lid.B.R_end 1
+    405060: DEF-lid.T.L.001_end
+    405062: DEF-lid.T.L.001_end 1
+    405064: DEF-lid.T.L.002_end
+    405066: DEF-lid.T.L.002_end 1
+    405068: DEF-lid.T.L.003_end
+    405070: DEF-lid.T.L.003_end 1
+    405072: DEF-lid.T.L_end
+    405074: DEF-lid.T.L_end 1
+    405076: DEF-lid.T.R.001_end
+    405078: DEF-lid.T.R.001_end 1
+    405080: DEF-lid.T.R.002_end
+    405082: DEF-lid.T.R.002_end 1
+    405084: DEF-lid.T.R.003_end
+    405086: DEF-lid.T.R.003_end 1
+    405088: DEF-lid.T.R_end
+    405090: DEF-lid.T.R_end 1
+    405092: DEF-lip.B.L.001_end
+    405094: DEF-lip.B.L.001_end 1
+    405096: DEF-lip.B.L_end
+    405098: DEF-lip.B.L_end 1
+    405100: DEF-lip.B.R.001_end
+    405102: DEF-lip.B.R.001_end 1
+    405104: DEF-lip.B.R_end
+    405106: DEF-lip.B.R_end 1
+    405108: DEF-lip.T.L.001_end
+    405110: DEF-lip.T.L.001_end 1
+    405112: DEF-lip.T.L_end
+    405114: DEF-lip.T.L_end 1
+    405116: DEF-lip.T.R.001_end
+    405118: DEF-lip.T.R.001_end 1
+    405120: DEF-lip.T.R_end
+    405122: DEF-lip.T.R_end 1
+    405124: DEF-nose.001_end
+    405126: DEF-nose.001_end 1
+    405128: DEF-nose.002_end
+    405130: DEF-nose.002_end 1
+    405132: DEF-nose.003_end
+    405134: DEF-nose.003_end 1
+    405136: DEF-nose.004_end
+    405138: DEF-nose.004_end 1
+    405140: DEF-nose.L.001_end
+    405142: DEF-nose.L.001_end 1
+    405144: DEF-nose.L_end
+    405146: DEF-nose.L_end 1
+    405148: DEF-nose.R.001_end
+    405150: DEF-nose.R.001_end 1
+    405152: DEF-nose.R_end
+    405154: DEF-nose.R_end 1
+    405156: DEF-nose_end
+    405158: DEF-nose_end 1
+    405160: DEF-palm.01.L_end
+    405162: DEF-palm.01.L_end 1
+    405164: DEF-palm.01.R_end
+    405166: DEF-palm.01.R_end 1
+    405168: DEF-palm.02.L_end
+    405170: DEF-palm.02.L_end 1
+    405172: DEF-palm.02.R_end
+    405174: DEF-palm.02.R_end 1
+    405176: DEF-palm.03.L_end
+    405178: DEF-palm.03.L_end 1
+    405180: DEF-palm.03.R_end
+    405182: DEF-palm.03.R_end 1
+    405184: DEF-palm.04.L_end
+    405186: DEF-palm.04.L_end 1
+    405188: DEF-palm.04.R_end
+    405190: DEF-palm.04.R_end 1
+    405192: DEF-pelvis.L_end
+    405194: DEF-pelvis.L_end 1
+    405196: DEF-pelvis.R_end
+    405198: DEF-pelvis.R_end 1
+    405200: DEF-shoulder.L_end
+    405202: DEF-shoulder.L_end 1
+    405204: DEF-shoulder.R_end
+    405206: DEF-shoulder.R_end 1
+    405208: DEF-spine.006_end
+    405210: DEF-spine.006_end 1
+    405212: DEF-temple.L_end
+    405214: DEF-temple.L_end 1
+    405216: DEF-temple.R_end
+    405218: DEF-temple.R_end 1
+    405220: DEF-thumb.03.L_end
+    405222: DEF-thumb.03.L_end 1
+    405224: DEF-thumb.03.R_end
+    405226: DEF-thumb.03.R_end 1
+    405228: DEF-toe.L_end
+    405230: DEF-toe.L_end 1
+    405232: DEF-toe.R_end
+    405234: DEF-toe.R_end 1
+    405236: DEF-tongue.001_end
+    405238: DEF-tongue.001_end 1
+    405240: DEF-tongue.002_end
+    405242: DEF-tongue.002_end 1
+    405244: DEF-tongue_end
+    405246: DEF-tongue_end 1
+    405248: ear.L.004_end
+    405250: ear.R.004_end
+    405252: eye.L_end
+    405254: eye.L_end 1
+    405256: eye.L_end 2
+    405258: eye.R_end
+    405260: eye.R_end 1
+    405262: eye.R_end 2
+    405264: f_index.03.L_end
+    405266: f_index.03.L_end 1
+    405268: f_index.03.R_end
+    405270: f_index.03.R_end 1
+    405272: f_middle.03.L_end
+    405274: f_middle.03.L_end 1
+    405276: f_middle.03.R_end
+    405278: f_middle.03.R_end 1
+    405280: f_pinky.03.L_end
+    405282: f_pinky.03.L_end 1
+    405284: f_pinky.03.R_end
+    405286: f_pinky.03.R_end 1
+    405288: f_ring.03.L_end
+    405290: f_ring.03.L_end 1
+    405292: f_ring.03.R_end
+    405294: f_ring.03.R_end 1
+    405296: face_end
+    405298: foot_fk.L_end
+    405300: foot_fk.L_end 1
+    405302: foot_fk.R_end
+    405304: foot_fk.R_end 1
+    405306: foot_l_end
+    405308: foot_r_end
+    405310: foot_tweak.L_end
+    405312: foot_tweak.L_end 1
+    405314: foot_tweak.R_end
+    405316: foot_tweak.R_end 1
+    405318: forearm_tweak.L.001_end
+    405320: forearm_tweak.L.001_end 1
+    405322: forearm_tweak.L_end
+    405324: forearm_tweak.L_end 1
+    405326: forearm_tweak.R.001_end
+    405328: forearm_tweak.R.001_end 1
+    405330: forearm_tweak.R_end
+    405332: forearm_tweak.R_end 1
+    405334: hand_fk.L_end
+    405336: hand_fk.L_end 1
+    405338: hand_fk.R_end
+    405340: hand_fk.R_end 1
+    405342: hand_tweak.L_end
+    405344: hand_tweak.L_end 1
+    405346: hand_tweak.R_end
+    405348: hand_tweak.R_end 1
+    405350: heel.02.L_end
+    405352: heel.02.L_end 1
+    405354: heel.02.R_end
+    405356: heel.02.R_end 1
+    405358: hips_end
+    405360: hips_end 1
+    405362: lid.B.L.003_end
+    405364: lid.B.R.003_end
+    405366: lip.B.L.001_end
+    405368: lip.B.R.001_end
+    405370: lip.T.L.001_end
+    405372: lip.T.R.001_end
+    405374: MCH-eye.L.001_end
+    405376: MCH-eye.L.001_end 1
+    405378: MCH-eye.R.001_end
+    405380: MCH-eye.R.001_end 1
+    405382: MCH-foot_ik_parent.L_end
+    405384: MCH-foot_ik_parent.L_end 1
+    405386: MCH-foot_ik_parent.R_end
+    405388: MCH-foot_ik_parent.R_end 1
+    405390: MCH-foot_ik_root.L_end
+    405392: MCH-foot_ik_root.L_end 1
+    405394: MCH-foot_ik_root.R_end
+    405396: MCH-foot_ik_root.R_end 1
+    405398: MCH-hand_ik_parent.L_end
+    405400: MCH-hand_ik_parent.L_end 1
+    405402: MCH-hand_ik_parent.R_end
+    405404: MCH-hand_ik_parent.R_end 1
+    405406: MCH-hand_ik_root.L_end
+    405408: MCH-hand_ik_root.L_end 1
+    405410: MCH-hand_ik_root.R_end
+    405412: MCH-hand_ik_root.R_end 1
+    405414: MCH-heel.02_roll.L_end
+    405416: MCH-heel.02_roll.L_end 1
+    405418: MCH-heel.02_roll.R_end
+    405420: MCH-heel.02_roll.R_end 1
+    405422: MCH-mouth_lock_end
+    405424: MCH-mouth_lock_end 1
+    405426: MCH-thigh_ik.L_end
+    405428: MCH-thigh_ik.L_end 1
+    405430: MCH-thigh_ik.R_end
+    405432: MCH-thigh_ik.R_end 1
+    405434: MCH-thigh_ik_stretch.L_end
+    405436: MCH-thigh_ik_stretch.L_end 1
+    405438: MCH-thigh_ik_stretch.R_end
+    405440: MCH-thigh_ik_stretch.R_end 1
+    405442: MCH-thigh_ik_target.L_end
+    405444: MCH-thigh_ik_target.L_end 1
+    405446: MCH-thigh_ik_target.R_end
+    405448: MCH-thigh_ik_target.R_end 1
+    405450: MCH-upper_arm_ik.L_end
+    405452: MCH-upper_arm_ik.L_end 1
+    405454: MCH-upper_arm_ik.R_end
+    405456: MCH-upper_arm_ik.R_end 1
+    405458: MCH-upper_arm_ik_stretch.L_end
+    405460: MCH-upper_arm_ik_stretch.L_end 1
+    405462: MCH-upper_arm_ik_stretch.R_end
+    405464: MCH-upper_arm_ik_stretch.R_end 1
+    405466: MCH-upper_arm_ik_target.L_end
+    405468: MCH-upper_arm_ik_target.L_end 1
+    405470: MCH-upper_arm_ik_target.R_end
+    405472: MCH-upper_arm_ik_target.R_end 1
+    405474: MCH-WGT-chest_end
+    405476: MCH-WGT-chest_end 1
+    405478: MCH-WGT-hips_end
+    405480: MCH-WGT-hips_end 1
+    405482: nose.004_end
+    405484: nose.005_end
+    405486: nose.005_end 1
+    405488: nose.L.001_end
+    405490: nose.R.001_end
+    405492: ORG-brow.B.L.001_end
+    405494: ORG-brow.B.L.001_end 1
+    405496: ORG-brow.B.L.002_end
+    405498: ORG-brow.B.L.002_end 1
+    405500: ORG-brow.B.L.003_end
+    405502: ORG-brow.B.L.003_end 1
+    405504: ORG-brow.B.L_end
+    405506: ORG-brow.B.L_end 1
+    405508: ORG-brow.B.R.001_end
+    405510: ORG-brow.B.R.001_end 1
+    405512: ORG-brow.B.R.002_end
+    405514: ORG-brow.B.R.002_end 1
+    405516: ORG-brow.B.R.003_end
+    405518: ORG-brow.B.R.003_end 1
+    405520: ORG-brow.B.R_end
+    405522: ORG-brow.B.R_end 1
+    405524: ORG-brow.T.L.001_end
+    405526: ORG-brow.T.L.001_end 1
+    405528: ORG-brow.T.L.002_end
+    405530: ORG-brow.T.L.002_end 1
+    405532: ORG-brow.T.L.003_end
+    405534: ORG-brow.T.L.003_end 1
+    405536: ORG-brow.T.L_end
+    405538: ORG-brow.T.L_end 1
+    405540: ORG-brow.T.R.001_end
+    405542: ORG-brow.T.R.001_end 1
+    405544: ORG-brow.T.R.002_end
+    405546: ORG-brow.T.R.002_end 1
+    405548: ORG-brow.T.R.003_end
+    405550: ORG-brow.T.R.003_end 1
+    405552: ORG-brow.T.R_end
+    405554: ORG-brow.T.R_end 1
+    405556: ORG-cheek.B.L.001_end
+    405558: ORG-cheek.B.L.001_end 1
+    405560: ORG-cheek.B.L_end
+    405562: ORG-cheek.B.L_end 1
+    405564: ORG-cheek.B.R.001_end
+    405566: ORG-cheek.B.R.001_end 1
+    405568: ORG-cheek.B.R_end
+    405570: ORG-cheek.B.R_end 1
+    405572: ORG-cheek.T.L.001_end
+    405574: ORG-cheek.T.L.001_end 1
+    405576: ORG-cheek.T.L_end
+    405578: ORG-cheek.T.L_end 1
+    405580: ORG-cheek.T.R.001_end
+    405582: ORG-cheek.T.R.001_end 1
+    405584: ORG-cheek.T.R_end
+    405586: ORG-cheek.T.R_end 1
+    405588: ORG-chin.001_end
+    405590: ORG-chin.001_end 1
+    405592: ORG-chin.L_end
+    405594: ORG-chin.L_end 1
+    405596: ORG-chin.R_end
+    405598: ORG-chin.R_end 1
+    405600: ORG-chin_end
+    405602: ORG-chin_end 1
+    405604: ORG-ear.L.001_end
+    405606: ORG-ear.L.001_end 1
+    405608: ORG-ear.L.002_end
+    405610: ORG-ear.L.002_end 1
+    405612: ORG-ear.L.003_end
+    405614: ORG-ear.L.003_end 1
+    405616: ORG-ear.L.004_end
+    405618: ORG-ear.L.004_end 1
+    405620: ORG-ear.L_end
+    405622: ORG-ear.L_end 1
+    405624: ORG-ear.R.001_end
+    405626: ORG-ear.R.001_end 1
+    405628: ORG-ear.R.002_end
+    405630: ORG-ear.R.002_end 1
+    405632: ORG-ear.R.003_end
+    405634: ORG-ear.R.003_end 1
+    405636: ORG-ear.R.004_end
+    405638: ORG-ear.R.004_end 1
+    405640: ORG-ear.R_end
+    405642: ORG-ear.R_end 1
+    405644: ORG-eye.L_end
+    405646: ORG-eye.L_end 1
+    405648: ORG-eye.R_end
+    405650: ORG-eye.R_end 1
+    405652: ORG-f_index.01.L_end
+    405654: ORG-f_index.01.L_end 1
+    405656: ORG-f_index.01.R_end
+    405658: ORG-f_index.01.R_end 1
+    405660: ORG-f_index.02.L_end
+    405662: ORG-f_index.02.L_end 1
+    405664: ORG-f_index.02.R_end
+    405666: ORG-f_index.02.R_end 1
+    405668: ORG-f_index.03.L_end
+    405670: ORG-f_index.03.L_end 1
+    405672: ORG-f_index.03.R_end
+    405674: ORG-f_index.03.R_end 1
+    405676: ORG-f_middle.01.L_end
+    405678: ORG-f_middle.01.L_end 1
+    405680: ORG-f_middle.01.R_end
+    405682: ORG-f_middle.01.R_end 1
+    405684: ORG-f_middle.02.L_end
+    405686: ORG-f_middle.02.L_end 1
+    405688: ORG-f_middle.02.R_end
+    405690: ORG-f_middle.02.R_end 1
+    405692: ORG-f_middle.03.L_end
+    405694: ORG-f_middle.03.L_end 1
+    405696: ORG-f_middle.03.R_end
+    405698: ORG-f_middle.03.R_end 1
+    405700: ORG-f_pinky.01.L_end
+    405702: ORG-f_pinky.01.L_end 1
+    405704: ORG-f_pinky.01.R_end
+    405706: ORG-f_pinky.01.R_end 1
+    405708: ORG-f_pinky.02.L_end
+    405710: ORG-f_pinky.02.L_end 1
+    405712: ORG-f_pinky.02.R_end
+    405714: ORG-f_pinky.02.R_end 1
+    405716: ORG-f_pinky.03.L_end
+    405718: ORG-f_pinky.03.L_end 1
+    405720: ORG-f_pinky.03.R_end
+    405722: ORG-f_pinky.03.R_end 1
+    405724: ORG-f_ring.01.L_end
+    405726: ORG-f_ring.01.L_end 1
+    405728: ORG-f_ring.01.R_end
+    405730: ORG-f_ring.01.R_end 1
+    405732: ORG-f_ring.02.L_end
+    405734: ORG-f_ring.02.L_end 1
+    405736: ORG-f_ring.02.R_end
+    405738: ORG-f_ring.02.R_end 1
+    405740: ORG-f_ring.03.L_end
+    405742: ORG-f_ring.03.L_end 1
+    405744: ORG-f_ring.03.R_end
+    405746: ORG-f_ring.03.R_end 1
+    405748: ORG-forehead.L.001_end
+    405750: ORG-forehead.L.001_end 1
+    405752: ORG-forehead.L.002_end
+    405754: ORG-forehead.L.002_end 1
+    405756: ORG-forehead.L_end
+    405758: ORG-forehead.L_end 1
+    405760: ORG-forehead.R.001_end
+    405762: ORG-forehead.R.001_end 1
+    405764: ORG-forehead.R.002_end
+    405766: ORG-forehead.R.002_end 1
+    405768: ORG-forehead.R_end
+    405770: ORG-forehead.R_end 1
+    405772: ORG-heel.02.L_end
+    405774: ORG-heel.02.L_end 1
+    405776: ORG-heel.02.R_end
+    405778: ORG-heel.02.R_end 1
+    405780: ORG-jaw.L.001_end
+    405782: ORG-jaw.L.001_end 1
+    405784: ORG-jaw.L_end
+    405786: ORG-jaw.L_end 1
+    405788: ORG-jaw.R.001_end
+    405790: ORG-jaw.R.001_end 1
+    405792: ORG-jaw.R_end
+    405794: ORG-jaw.R_end 1
+    405796: ORG-jaw_end
+    405798: ORG-jaw_end 1
+    405800: ORG-lid.B.L.001_end
+    405802: ORG-lid.B.L.001_end 1
+    405804: ORG-lid.B.L.002_end
+    405806: ORG-lid.B.L.002_end 1
+    405808: ORG-lid.B.L.003_end
+    405810: ORG-lid.B.L.003_end 1
+    405812: ORG-lid.B.L_end
+    405814: ORG-lid.B.L_end 1
+    405816: ORG-lid.B.R.001_end
+    405818: ORG-lid.B.R.001_end 1
+    405820: ORG-lid.B.R.002_end
+    405822: ORG-lid.B.R.002_end 1
+    405824: ORG-lid.B.R.003_end
+    405826: ORG-lid.B.R.003_end 1
+    405828: ORG-lid.B.R_end
+    405830: ORG-lid.B.R_end 1
+    405832: ORG-lid.T.L.001_end
+    405834: ORG-lid.T.L.001_end 1
+    405836: ORG-lid.T.L.002_end
+    405838: ORG-lid.T.L.002_end 1
+    405840: ORG-lid.T.L.003_end
+    405842: ORG-lid.T.L.003_end 1
+    405844: ORG-lid.T.L_end
+    405846: ORG-lid.T.L_end 1
+    405848: ORG-lid.T.R.001_end
+    405850: ORG-lid.T.R.001_end 1
+    405852: ORG-lid.T.R.002_end
+    405854: ORG-lid.T.R.002_end 1
+    405856: ORG-lid.T.R.003_end
+    405858: ORG-lid.T.R.003_end 1
+    405860: ORG-lid.T.R_end
+    405862: ORG-lid.T.R_end 1
+    405864: ORG-lip.B.L.001_end
+    405866: ORG-lip.B.L.001_end 1
+    405868: ORG-lip.B.L_end
+    405870: ORG-lip.B.L_end 1
+    405872: ORG-lip.B.R.001_end
+    405874: ORG-lip.B.R.001_end 1
+    405876: ORG-lip.B.R_end
+    405878: ORG-lip.B.R_end 1
+    405880: ORG-lip.T.L.001_end
+    405882: ORG-lip.T.L.001_end 1
+    405884: ORG-lip.T.L_end
+    405886: ORG-lip.T.L_end 1
+    405888: ORG-lip.T.R.001_end
+    405890: ORG-lip.T.R.001_end 1
+    405892: ORG-lip.T.R_end
+    405894: ORG-lip.T.R_end 1
+    405896: ORG-nose.001_end
+    405898: ORG-nose.001_end 1
+    405900: ORG-nose.002_end
+    405902: ORG-nose.002_end 1
+    405904: ORG-nose.003_end
+    405906: ORG-nose.003_end 1
+    405908: ORG-nose.004_end
+    405910: ORG-nose.004_end 1
+    405912: ORG-nose.L.001_end
+    405914: ORG-nose.L.001_end 1
+    405916: ORG-nose.L_end
+    405918: ORG-nose.L_end 1
+    405920: ORG-nose.R.001_end
+    405922: ORG-nose.R.001_end 1
+    405924: ORG-nose.R_end
+    405926: ORG-nose.R_end 1
+    405928: ORG-nose_end
+    405930: ORG-nose_end 1
+    405932: ORG-spine.001_end
+    405934: ORG-spine.001_end 1
+    405936: ORG-spine.002_end
+    405938: ORG-spine.002_end 1
+    405940: ORG-spine.004_end
+    405942: ORG-spine.004_end 1
+    405944: ORG-spine.005_end
+    405946: ORG-spine.005_end 1
+    405948: ORG-teeth.B_end
+    405950: ORG-teeth.B_end 1
+    405952: ORG-teeth.T_end
+    405954: ORG-teeth.T_end 1
+    405956: ORG-temple.L_end
+    405958: ORG-temple.L_end 1
+    405960: ORG-temple.R_end
+    405962: ORG-temple.R_end 1
+    405964: ORG-thumb.01.L_end
+    405966: ORG-thumb.01.L_end 1
+    405968: ORG-thumb.01.R_end
+    405970: ORG-thumb.01.R_end 1
+    405972: ORG-thumb.02.L_end
+    405974: ORG-thumb.02.L_end 1
+    405976: ORG-thumb.02.R_end
+    405978: ORG-thumb.02.R_end 1
+    405980: ORG-thumb.03.L_end
+    405982: ORG-thumb.03.L_end 1
+    405984: ORG-thumb.03.R_end
+    405986: ORG-thumb.03.R_end 1
+    405988: ORG-toe.L_end
+    405990: ORG-toe.L_end 1
+    405992: ORG-toe.R_end
+    405994: ORG-toe.R_end 1
+    405996: ORG-tongue.001_end
+    405998: ORG-tongue.001_end 1
+    406000: ORG-tongue.002_end
+    406002: ORG-tongue.002_end 1
+    406004: ORG-tongue_end
+    406006: ORG-tongue_end 1
+    406008: palm.L_end
+    406010: palm.L_end 1
+    406012: palm.R_end
+    406014: palm.R_end 1
+    406016: pelvis.L_end
+    406018: pelvis.R_end
+    406020: shin_tweak.L.001_end
+    406022: shin_tweak.L.001_end 1
+    406024: shin_tweak.L_end
+    406026: shin_tweak.L_end 1
+    406028: shin_tweak.R.001_end
+    406030: shin_tweak.R.001_end 1
+    406032: shin_tweak.R_end
+    406034: shin_tweak.R_end 1
+    406036: shoulder.L_end
+    406038: shoulder.L_end 1
+    406040: shoulder.R_end
+    406042: shoulder.R_end 1
+    406044: teeth.B_end
+    406046: teeth.B_end 1
+    406048: teeth.B_end 2
+    406050: teeth.T_end
+    406052: teeth.T_end 1
+    406054: teeth.T_end 2
+    406056: thigh_ik_target.L_end
+    406058: thigh_ik_target.L_end 1
+    406060: thigh_ik_target.R_end
+    406062: thigh_ik_target.R_end 1
+    406064: thigh_parent.L_end
+    406066: thigh_parent.L_end 1
+    406068: thigh_parent.R_end
+    406070: thigh_parent.R_end 1
+    406072: thigh_tweak.L.001_end
+    406074: thigh_tweak.L.001_end 1
+    406076: thigh_tweak.L_end
+    406078: thigh_tweak.L_end 1
+    406080: thigh_tweak.R.001_end
+    406082: thigh_tweak.R.001_end 1
+    406084: thigh_tweak.R_end
+    406086: thigh_tweak.R_end 1
+    406088: thumb.03.L_end
+    406090: thumb.03.L_end 1
+    406092: thumb.03.R_end
+    406094: thumb.03.R_end 1
+    406096: toe.L_end
+    406098: toe.L_end 1
+    406100: toe.L_end 2
+    406102: toe.L_end 3
+    406104: toe.R_end
+    406106: toe.R_end 1
+    406108: toe.R_end 2
+    406110: toe.R_end 3
+    406112: tongue.002_end
+    406114: tongue.003_end
+    406116: tongue.003_end 1
+    406118: tweak_f_index.03.L.001_end
+    406120: tweak_f_index.03.L.001_end 1
+    406122: tweak_f_index.03.R.001_end
+    406124: tweak_f_index.03.R.001_end 1
+    406126: tweak_f_middle.03.L.001_end
+    406128: tweak_f_middle.03.L.001_end 1
+    406130: tweak_f_middle.03.R.001_end
+    406132: tweak_f_middle.03.R.001_end 1
+    406134: tweak_f_pinky.03.L.001_end
+    406136: tweak_f_pinky.03.L.001_end 1
+    406138: tweak_f_pinky.03.R.001_end
+    406140: tweak_f_pinky.03.R.001_end 1
+    406142: tweak_f_ring.03.L.001_end
+    406144: tweak_f_ring.03.L.001_end 1
+    406146: tweak_f_ring.03.R.001_end
+    406148: tweak_f_ring.03.R.001_end 1
+    406150: tweak_thumb.03.L.001_end
+    406152: tweak_thumb.03.L.001_end 1
+    406154: tweak_thumb.03.R.001_end
+    406156: tweak_thumb.03.R.001_end 1
+    406158: upper_arm_ik_target.L_end
+    406160: upper_arm_ik_target.L_end 1
+    406162: upper_arm_ik_target.R_end
+    406164: upper_arm_ik_target.R_end 1
+    406166: upper_arm_parent.L_end
+    406168: upper_arm_parent.L_end 1
+    406170: upper_arm_parent.R_end
+    406172: upper_arm_parent.R_end 1
+    406174: upper_arm_tweak.L.001_end
+    406176: upper_arm_tweak.L.001_end 1
+    406178: upper_arm_tweak.L_end
+    406180: upper_arm_tweak.L_end 1
+    406182: upper_arm_tweak.R.001_end
+    406184: upper_arm_tweak.R.001_end 1
+    406186: upper_arm_tweak.R_end
+    406188: upper_arm_tweak.R_end 1
+    406190: VIS_thigh_ik_pole.L_end
+    406192: VIS_thigh_ik_pole.L_end 1
+    406194: VIS_thigh_ik_pole.R_end
+    406196: VIS_thigh_ik_pole.R_end 1
+    406198: VIS_upper_arm_ik_pole.L_end
+    406200: VIS_upper_arm_ik_pole.L_end 1
+    406202: VIS_upper_arm_ik_pole.R_end
+    406204: VIS_upper_arm_ik_pole.R_end 1
+    406206: Door.006
+    406208: Door.007
+    406210: DoorFrame.004
+    406212: Handle_Back.004
+    406214: Handle_Front.004
     2100000: No Name
     2100002: walls
     2100004: Roof
@@ -4841,6 +6303,7 @@ ModelImporter:
     2100162: Saab_Orange
     2100164: Saab_redlight
     2100166: Eyebrow
+    2100168: Brows
     2300000: Cylinder
     2300002: Cylinder.001
     2300004: House
@@ -5387,6 +6850,11 @@ ModelImporter:
     2301086: WGT-rig.001_VIS_upper_arm_ik_pole.L
     2301088: WGT-rig.001_VIS_upper_arm_ik_pole.R
     2301090: WGTS_rig.001
+    2301092: Door.006
+    2301094: Door.007
+    2301096: DoorFrame.004
+    2301098: Handle_Back.004
+    2301100: Handle_Front.004
     3300000: Cylinder
     3300002: Cylinder.001
     3300004: House
@@ -5933,6 +7401,11 @@ ModelImporter:
     3301086: WGT-rig.001_VIS_upper_arm_ik_pole.L
     3301088: WGT-rig.001_VIS_upper_arm_ik_pole.R
     3301090: WGTS_rig.001
+    3301092: Door.006
+    3301094: Door.007
+    3301096: DoorFrame.004
+    3301098: Handle_Back.004
+    3301100: Handle_Front.004
     4300000: Cylinder.001
     4300002: Cylinder
     4300004: mailbox
@@ -6487,11 +7960,20 @@ ModelImporter:
     4301102: saab
     4301104: Hinge
     4301106: Door.005
+    4301108: DoorFrame.004
+    4301110: Door.007
+    4301112: Handle_Front.004
+    4301114: Handle_Back.004
+    4301116: Door.006
     7400000: Game_engine|Game_engineAction
     7400002: Getting Up
     7400004: Game_engine|Game_engine|Game_engine|Getting Up|Game_engine|Getting Up
     7400006: Waking Up
     7400008: Wake Up Rigify
+    7400010: rig.001|rig.001Action
+    7400012: rig.001|Dad_Exit
+    7400014: rig.001|Door_Opening
+    7400016: rig.001|Elin_Wakes_Up
     9500000: //RootNode
     10800000: Sun
     13700000: elin_t_and_shortsMesh
@@ -6896,10 +8378,66 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: Wake Up Rigify
-      takeName: rig|rigAction
+      name: rig.001|Dad_Exit
+      takeName: rig.001|Dad_Exit
       firstFrame: 0
-      lastFrame: 585
+      lastFrame: 313
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: rig.001|Door_Opening
+      takeName: rig.001|Door_Opening
+      firstFrame: 0
+      lastFrame: 80
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: rig.001|Elin_Wakes_Up
+      takeName: rig.001|Elin_Wakes_Up
+      firstFrame: 0
+      lastFrame: 490
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
