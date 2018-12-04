@@ -64,7 +64,7 @@ public class AnimManager : MonoBehaviour
             text.horizontalOverflow = HorizontalWrapMode.Wrap;
             //DialogueRect. = new Vector2(475, -168);
             DialogueRect.offsetMin = new Vector2(/*left*/ 475, /*Bottom*/ 0);
-            DialogueRect.offsetMax = new Vector2(/*Right*/ -40, /*Top*/ -168); // <--These values must be inverted
+            DialogueRect.offsetMax = new Vector2(/*Right*/ -40, /*Top*/ -145); // <--These values must be inverted
 
             dialogue.RunDialogue("Intro");
             print("dialogue1");
