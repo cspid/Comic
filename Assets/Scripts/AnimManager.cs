@@ -9,6 +9,7 @@ public class AnimManager : MonoBehaviour
     public Animator middleCamScene1;
     public Animator bottomCamScene1;
     public Animator title;
+	public Animator house;
     public BorderScript borderScript;
     public triggerDialogue dialogue;
 
@@ -21,17 +22,29 @@ public class AnimManager : MonoBehaviour
     public bool houseIntro;
     public bool openTitle;
     public bool closeTitle;
-    public bool blink;
+    public bool wakeUp;
+	public bool dadLeaves;
+	public bool saabOut;
     public bool text1;
     public float left;
+	public Transform dadMesh;
+	public GameObject[] dadclothes;
 
 
+	public Transform saab;
+
+    
 
 
 
     // Use this for initialization
     void Start()
     {
+		foreach (GameObject t in dadclothes)
+		{
+			t.SetActive(true);
+		}
+
         dialogue.RunDialogue("Opening");
        // DialogueRect = DialogueContainer.GetComponent<RectTransform>
     }
@@ -71,28 +84,29 @@ public class AnimManager : MonoBehaviour
             text1 = false;
         }
 
-        if (blink == true)
+        if (wakeUp == true)
         {
-
+			house.SetTrigger("Wake Up");
+			wakeUp = false;
         }
 
+		if (dadLeaves == true)
+        {
+            house.SetTrigger("Dad Leaves");
+			house.SetTrigger("Door open");
 
-        //if (saabAssembly == true)
-        //{
-        //    //bottomCam.GetComponent<Camera>().rect = new Rect(0.03f, 0.02f, 0.94f, 0.3066f);
-        
-        //    bottomCamScene1.SetTrigger("Saab Assembly");
-        //    saabAssembly = false;
-        //}
-        
-        //if (unfurlBottom == true)
-        //{
-        //    //bottomCam.GetComponent<Camera>().rect = new Rect(0.03f, 0.3066f, 0.94f, 0f);
-        //    print("set");
-        //    bottomCam.gameObject.SetActive(true);
-        //    bottomCamScene1.SetTrigger("Unfurl");
-        //    unfurlBottom = false;
-        //}
+            dadLeaves = false;
+        }
 
+		if (saabOut == true)
+        {
+			foreach (GameObject t in dadclothes)
+            {
+                t.SetActive(false);
+            }
+            house.SetTrigger("Saab Out");
+            house.SetTrigger("Saab Out");
+            saabOut = false;
+        }      
     }
 }
