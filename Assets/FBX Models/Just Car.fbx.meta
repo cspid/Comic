@@ -6813,6 +6813,7 @@ ModelImporter:
     7400092: Front Door|saab_backout
     7400094: Front Door|Sitting Up
     7400096: Dad|Dad_InCar
+    7400098: Dad|Dad_Driving
     9500000: //RootNode
     13700000: dadMesh
     13700002: elin_t_and_shortsMesh.001
@@ -6852,17 +6853,17 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: Dad|Dad_Exit
-      takeName: Dad|Dad_Exit
+      name: Dad|Dad_Driving
+      takeName: Dad|Dad_Driving
       firstFrame: 0
-      lastFrame: 311
+      lastFrame: 350
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
       cycleOffset: 0
       loop: 0
       hasAdditiveReferencePose: 0
-      loopTime: 0
+      loopTime: 1
       loopBlend: 0
       loopBlendOrientation: 0
       loopBlendPositionY: 0

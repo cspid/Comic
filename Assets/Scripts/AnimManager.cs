@@ -10,30 +10,48 @@ public class AnimManager : MonoBehaviour
     public Animator bottomCamScene1;
     public Animator title;
 	public Animator house;
+    public Animator houseUp1;
+    public Animator FadeInBottomPanel;        
+    public Animator BlueIntro;
+    public Animator Triggerer;
+
+
+    public Animator fadeOut;
+    public Animator fadeOut2;
+
     public BorderScript borderScript;
     public triggerDialogue dialogue;
+
+    bool startAnims;
+    bool startAnims2;
+
 
     //public bool saabAssembly;
     //bool unfurlBottom;
     //public Transform bottomCam;
     ///public Transform DialogueContainer;
+    public Transform saab;
+    public GameObject[] dadclothes;
     public RectTransform DialogueRect;
     public Text text;
+    public Camera panel3Cam2;
     public bool houseIntro;
     public bool openTitle;
     public bool closeTitle;
     public bool wakeUp;
-	public bool dadLeaves;
-	public bool saabOut;
+    public bool dadLeaves;
+    public bool saabOut;
     public bool text1;
-    public float left;
-	public Transform dadMesh;
-	public GameObject[] dadclothes;
+    public bool text2;
+    public bool panUp;
+    public bool switchPanel3Cam2;
+    public bool fade;
+    public bool blueIntro;
 
 
-	public Transform saab;
 
-    
+
+
 
 
 
@@ -46,6 +64,7 @@ public class AnimManager : MonoBehaviour
 		}
 
         dialogue.RunDialogue("Opening");
+        openTitle = true;
        // DialogueRect = DialogueContainer.GetComponent<RectTransform>
     }
 
@@ -84,6 +103,19 @@ public class AnimManager : MonoBehaviour
             text1 = false;
         }
 
+        if (text2 == true)
+        {
+            text.alignment = TextAnchor.MiddleLeft;
+            text.horizontalOverflow = HorizontalWrapMode.Wrap;
+            //DialogueRect. = new Vector2(475, -168);
+            DialogueRect.offsetMin = new Vector2(/*left*/ 30.4f, /*Bottom*/ 0);
+            DialogueRect.offsetMax = new Vector2(/*Right*/ -408, /*Top*/ -295); // <--These values must be inverted
+
+            dialogue.RunDialogue("Commute");
+            print("dialogue1");
+            text2 = false;
+        }
+
         if (wakeUp == true)
         {
 			house.SetTrigger("Wake Up");
@@ -107,6 +139,59 @@ public class AnimManager : MonoBehaviour
             house.SetTrigger("Saab Out");
             house.SetTrigger("Saab Out");
             saabOut = false;
-        }      
+        }    
+
+        if (switchPanel3Cam2 == true){
+            panel3Cam2.depth = 2;
+          //  FadeInBottomPanel.SetTrigger("Fade");
+            switchPanel3Cam2 = false;
+        }
+
+        if (fade == true)
+        {
+            fadeOut.SetTrigger("Fade");
+            fadeOut2.SetTrigger("Fade");
+            fade = false;
+        }
+
+        if (panUp == true){
+            middleCamScene1.SetTrigger("Pan Up");
+            title.SetTrigger("pan up");
+            houseUp1.SetTrigger("Rotate");
+            panUp = false;
+        }
+
+        if (blueIntro == true)
+        {
+            BlueIntro.SetTrigger("blue intro");
+            blueIntro = false;
+        }
+
+        if(startAnims ==true)
+        {
+            Triggerer.SetTrigger("Triggerer");
+            print("2");
+        }
+
+        if (startAnims2 == true)
+        {
+            Triggerer.SetTrigger("Triggerer2");
+            print("2");
+        }
+
+        //check Text
+        if (text.text == "This week has been kinda crazy, it's a long story. "){
+            startAnims = true;
+            print("1");
+        }
+
+        if (text.text == "Most days I wait til i hear his car pull out of the driveway before I get up. It's not that I don't want to see him - I get along pretty well with my dad. ")
+        {
+            if(Input.GetMouseButton(0)){
+                print("Clicked");
+                startAnims2 = true;
+            }
+        }
+
     }
 }
