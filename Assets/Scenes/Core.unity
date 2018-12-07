@@ -884,7 +884,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 400170, guid: 34df9b66070fc4896b4204cd93f5c5f2, type: 3}
       propertyPath: m_RootOrder
-      value: 9
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 400066, guid: 34df9b66070fc4896b4204cd93f5c5f2, type: 3}
       propertyPath: m_RootOrder
@@ -10036,7 +10036,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 400170, guid: 34df9b66070fc4896b4204cd93f5c5f2, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.033
+      value: -0.057
       objectReference: {fileID: 0}
     - target: {fileID: 100050, guid: 34df9b66070fc4896b4204cd93f5c5f2, type: 3}
       propertyPath: m_IsActive
@@ -10331,6 +10331,7 @@ MonoBehaviour:
   dadLeaves: 0
   saabOut: 0
   text1: 0
+  text2: 0
   panUp: 0
   switchPanel3Cam2: 0
   fade: 0
@@ -11262,7 +11263,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff26db721962cdf4a8edcdfa9a767d2a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  profile: {fileID: 11400000, guid: 31d4ae9a979e244a4993a43e32b37571, type: 2}
+  profile: {fileID: 11400000, guid: 1410a7038f780484d8810fd85af7639e, type: 2}
 --- !u!95 &482980563 stripped
 Animator:
   m_CorrespondingSourceObject: {fileID: 9500000, guid: 34df9b66070fc4896b4204cd93f5c5f2,
@@ -22239,7 +22240,7 @@ MonoBehaviour:
   dialogueContainer: {fileID: 823935132}
   lineText: {fileID: 1227199377}
   continuePrompt: {fileID: 0}
-  textSpeed: 0.025
+  textSpeed: 0.0001
   optionButtons:
   - {fileID: 1875046887}
   - {fileID: 799181228}
@@ -22747,7 +22748,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 14.040039, y: -213.1}
-  m_SizeDelta: {x: -451.92004, y: 38.59155}
+  m_SizeDelta: {x: -451.92004, y: 39.410744}
   m_Pivot: {x: 0.5, y: 1}
 --- !u!114 &823935134
 MonoBehaviour:
@@ -23627,8 +23628,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 174.03998, y: -19.295774}
-  m_SizeDelta: {x: 348.07996, y: 18.591549}
+  m_AnchoredPosition: {x: 174.03998, y: -19.705372}
+  m_SizeDelta: {x: 348.07996, y: 19.410746}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1249648019
 GameObject:

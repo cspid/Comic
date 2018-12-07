@@ -9,7 +9,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 8a3bdb2cd68f901469e7cc149151eb49, type: 3}
-  m_Name: title
+  m_Name: Background
   m_EditorClassIdentifier: 
   debugViews:
     m_Enabled: 1
@@ -100,7 +100,7 @@ MonoBehaviour:
     m_Enabled: 1
     m_Settings:
       bloom:
-        intensity: 0.46
+        intensity: 16.36
         threshold: 1.42
         softKnee: 0.29
         radius: 1.86
@@ -313,16 +313,16 @@ MonoBehaviour:
     m_Enabled: 1
     m_Settings:
       colored: 1
-      intensity: 0.318
+      intensity: 0.368
       size: 1
       luminanceContribution: 0.8
   vignette:
-    m_Enabled: 1
+    m_Enabled: 0
     m_Settings:
       mode: 0
       color: {r: 0, g: 0, b: 0, a: 1}
       center: {x: 0.5, y: 0.5}
-      intensity: 0.605
+      intensity: 0.56
       smoothness: 0.2
       roundness: 0.22
       mask: {fileID: 0}
