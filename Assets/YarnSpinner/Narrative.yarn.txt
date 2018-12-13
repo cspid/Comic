@@ -1,0 +1,102 @@
+title: Start
+tags: 
+colorID: 0
+position: 864,6
+---
+[[You know, just because I'm in a place like this, it doesn't mean this is... my thing.|HookUp]]
+[[Tell me about it. I have a little girl too, about the same age.|Parent]]
+===
+title: Parent
+tags: 
+colorID: 0
+position: 872,252
+---
+What's her name?
+[[Becka|Parent2]]
+[[Marina|Parent2]]
+[[Elenor|Parent2]]
+===
+title: End
+tags: 
+colorID: 0
+position: 878,735
+---
+I thought this place was table service, am I wrong? I'll just go to the bar, you want another?
+[[Uh, sure.|GetDrink]]<<Set $WantsDrink == true>>
+[[I'm good for now|GetDrink]]<<Set $WantsDrink == false>>
+===
+title: Parent2
+tags: 
+colorID: 0
+position: 875,511
+---
+Mine's Elin. Really it's Elinka but she's not having it, not since fourth grade. I'm not sure if someone said something to her or what, but one day she came home from school and she was Elin.
+[[Did that bother you?|Bother]]
+[[That's a nice name too.|Nice]]
+===
+title: Bother
+tags: 
+colorID: 0
+position: 455,802
+---
+No, it didn't. Her mother called her Elinka right to the end, it would drive her to fits, slamming doors - real teenage soap stuff.
+[[I mean at that age they're basically impossible. Especially this generation.|ThisGen]]
+[[To the end?|End]]
+===
+title: ThisGen
+tags: 
+colorID: 0
+position: 464,1178
+---
+Empty Text
+===
+title: Nice
+tags: 
+colorID: 0
+position: 1225,397
+---
+It was my grandmother's name, but my wife's idea. 
+[[Huh. She's looking out for your family lineage or something?|Nice2]]
+[[As your wife and family get along then? Wish I could say the same.]]
+===
+title: Nice2
+tags: 
+colorID: 0
+position: 1239,653
+---
+Yeah, something like that.
+[[You should ask her about it.|End]]
+===
+title: GetDrink
+tags: 
+colorID: 0
+position: 876,964
+---
+[[**But he seems like a nice enough guy. Kinda weird about his wife...**|Back]]
+[[**Maybe this is a good time to just up and leave**|Back]]
+===
+title: Back
+tags: 
+colorID: 0
+position: 875,1194
+---
+<<if WantsDrink == true>>
+Drinking Bud, yeah?
+[[You got it.]]
+[[Close enough for jazz]]
+<<endif>>
+<<if WantsDrink == false>>
+So I know you said you were done, but I hate to drink alone. At least humor me and let me and keep the bottle on the table.
+[[Uh, I guess. Sure.]]
+[[I think these are both for you.]]
+<<endif>>
+===
+title: Node14
+tags: 
+colorID: 0
+position: 882,1423
+---
+Anyways, we were talking about...
+[[Our kids|Kids]]
+[[Your wife|Wife]]
+===
