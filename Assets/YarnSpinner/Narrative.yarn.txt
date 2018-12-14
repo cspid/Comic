@@ -82,13 +82,13 @@ position: 875,1194
 ---
 <<if WantsDrink == true>>
 Drinking Bud, yeah?
-[[You got it.]]
-[[Close enough for jazz]]
+[[You got it.|Back2]]
+[[Close enough for jazz|Back2]]
 <<endif>>
 <<if WantsDrink == false>>
 So I know you said you were done, but I hate to drink alone. At least humor me and let me and keep the bottle on the table.
-[[Uh, I guess. Sure.]]
-[[I think these are both for you.]]
+[[Uh, I guess. Sure.|Back2]]
+[[I think these are both for you.|Back2]]
 <<endif>>
 ===
 title: Node14
