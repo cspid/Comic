@@ -22,6 +22,7 @@ TagManager:
   - Characters
   - Title
   - Roof
+  - Nearest
   - 
   - 
   - 
@@ -33,11 +34,10 @@ TagManager:
   - 
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - bodyignore
+  - door
+  - Ladder
+  - Climb
   - 
   m_SortingLayers:
   - name: Default
