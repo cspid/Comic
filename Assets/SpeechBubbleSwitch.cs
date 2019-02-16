@@ -33,7 +33,7 @@ public class SpeechBubbleSwitch : MonoBehaviour
             }
         }
     }
-    void BoxToSpeech()
+    public void BoxToSpeech()
     {
         anim1.SetTrigger("BoxToCurved");
         anim2.SetTrigger("BoxToCurved");
@@ -41,7 +41,7 @@ public class SpeechBubbleSwitch : MonoBehaviour
         anim4.SetTrigger("BoxToCurved");
     }
 
-    void CurveToBox()
+    public void CurveToBox()
     {
         anim1.SetTrigger("CurveToBox");
         anim2.SetTrigger("CurveToBox");
