@@ -65,8 +65,8 @@ Material:
         m_Offset: {x: 0, y: 0}
     - _SketchTex:
         m_Texture: {fileID: 2800000, guid: 74f40e2117b2f334083f0f1bbbe11df1, type: 3}
-        m_Scale: {x: 2, y: 2}
-        m_Offset: {x: 30.4, y: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     m_Floats:
     - _BumpScale: 1
     - _Cutoff: 0.5
@@ -98,7 +98,7 @@ Material:
     - _Shininess: 0.01
     - _SketchHalftoneMax: 0.82
     - _SketchHalftoneMin: 0.434
-    - _SketchSpeed: 1.1
+    - _SketchSpeed: 4.1
     - _SmoothnessTextureChannel: 0
     - _SpecSmooth: 0.041
     - _SpecularHighlights: 1
