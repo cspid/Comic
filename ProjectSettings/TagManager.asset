@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Camera
   - Border
+  - Transition
   layers:
   - Default
   - TransparentFX
