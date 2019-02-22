@@ -110,6 +110,9 @@ ModelImporter:
     100208: upper_arm.R
     100210: Eye_L
     100212: Eye_R
+    100214: Cube
+    100216: ms_shirt_women
+    100218: sleeves
     400000: BezierCurve
     400002: Body
     400004: Camera
@@ -217,6 +220,9 @@ ModelImporter:
     400208: upper_arm.R
     400210: Eye_L
     400212: Eye_R
+    400214: Cube
+    400216: ms_shirt_women
+    400218: sleeves
     2000000: Camera
     2100000: Material
     2100002: lips
@@ -236,6 +242,8 @@ ModelImporter:
     2100030: man pants
     2100032: man pants 2
     2100034: man shirt
+    2100036: ClothColor
+    2100038: ClothStripes
     2300000: BezierCurve
     2300002: girl cloack
     2300004: man boots
@@ -251,6 +259,7 @@ ModelImporter:
     2300024: thong
     2300026: Eye_L
     2300028: Eye_R
+    2300030: Cube
     3300000: BezierCurve
     3300002: girl cloack
     3300004: man boots
@@ -266,6 +275,7 @@ ModelImporter:
     3300024: thong
     3300026: Eye_L
     3300028: Eye_R
+    3300030: Cube
     4300000: Body
     4300002: girl shirt
     4300004: Hair
@@ -286,6 +296,11 @@ ModelImporter:
     4300034: sweater
     4300036: Eye_L
     4300038: Eye_R
+    4300040: Cube
+    4300042: ms_shirt_women
+    4300044: sleeves
+    7400000: metarig|metarigAction
+    7400002: metarig|metarigAction (1)
     9500000: //RootNode
     10800000: Hemi.001
     10800002: Sun
@@ -294,7 +309,85 @@ ModelImporter:
     13700004: girl shirt
     13700006: girl suit
     13700008: Hair
-  externalObjects: {}
+    13700010: ms_shirt_women
+    13700012: sleeves
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ClothColor
+    second: {fileID: 2100000, guid: 16bd45b1ce6b6ff459201fe7f3ddf879, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ClothStripes
+    second: {fileID: 2100000, guid: 22fb2d2ed65b3b147a09e6e7b39a4a7d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Iris
+    second: {fileID: 2100000, guid: d1baa8b444250d448bed6a3debd1368f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: 81a90743979acc740b2a682c72c6ae03, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: f1efca27cb3f93346ae8cd502cbf2cd5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 63b331f514e69074eb17aaa582984df6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Whites
+    second: {fileID: 2100000, guid: 5dce88c22a9b0a5429a13908b3ad2a5f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: brow
+    second: {fileID: 2100000, guid: 6d3643553f9553a44920d26ca200ba98, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: eye.001
+    second: {fileID: 2100000, guid: bcb1b4ce3d804fb44af951eae8c1b1ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: girl pants
+    second: {fileID: 2100000, guid: dbf755f22a9a4744f847cc10ca4a13d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: girl shirt
+    second: {fileID: 2100000, guid: 4543313fd9bd59145b8f80dcef006c03, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: girl suit
+    second: {fileID: 2100000, guid: 12ff2cc1813d919468ba71a76312af59, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lips
+    second: {fileID: 2100000, guid: 7e4a7ed7fed678b458c0e836427d27d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: man boots
+    second: {fileID: 2100000, guid: 8468d690f2ff5114695cd1a6b5a48c19, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pupil
+    second: {fileID: 2100000, guid: a2b181d789ddd6a468086156f13fc80c, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
@@ -309,7 +402,10 @@ ModelImporter:
     rigImportErrors: 
     rigImportWarnings: 
     animationImportErrors: 
-    animationImportWarnings: 
+    animationImportWarnings: "\nClip 'metarig|metarigAction' has import animation
+      warnings that might lower retargeting quality:\nNote: Activate translation DOF
+      on avatar to improve retargeting quality.\n\t'spine.004' is inbetween humanoid
+      transforms and has rotation animation that will be discarded.\n"
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
     importAnimatedCustomProperties: 0
@@ -321,7 +417,63 @@ ModelImporter:
     animationWrapMode: 0
     extraExposedTransformPaths: []
     extraUserProperties: []
-    clipAnimations: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: metarig|metarigAction
+      takeName: metarig|metarigAction
+      firstFrame: 0
+      lastFrame: 10
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: metarig|metarigAction (1)
+      takeName: metarig|metarigAction
+      firstFrame: 9
+      lastFrame: 10
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
     isReadable: 1
   meshes:
     lODScreenPercentages: []
