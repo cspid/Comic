@@ -65,7 +65,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     - _SketchTex:
         m_Texture: {fileID: 2800000, guid: 74f40e2117b2f334083f0f1bbbe11df1, type: 3}
-        m_Scale: {x: 10, y: 10}
+        m_Scale: {x: 300, y: 300}
         m_Offset: {x: 0, y: 0}
     m_Floats:
     - _BumpScale: 1
@@ -87,7 +87,7 @@ Material:
     - _OcclusionStrength: 1
     - _Offset1: 0
     - _Offset2: 0
-    - _Outline: 0.02
+    - _Outline: 0.04
     - _Parallax: 0.02
     - _RampSmooth: 0.316
     - _RampSmoothOtherLights: 0.5
