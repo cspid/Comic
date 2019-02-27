@@ -16664,7 +16664,7 @@ GameObject:
   m_Layer: 0
   m_Name: Scene 1
   m_TagString: Untagged
-  m_Icon: {fileID: 0}
+  m_Icon: {fileID: 5132851093641282708, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
@@ -41580,8 +41580,12 @@ MonoBehaviour:
     CashedBool: 0
   Hash4: []
   Hash5: []
-  Hash5_Fix2_0: []
-  Hash6: []
+  Hash5_Fix2_0:
+  - go: {fileID: 615100423}
+    guid: 
+    path: 
+  Hash6:
+  - list: e9000000c900000085000000ff000000000000000000000000000000000000000000000002000000a0000000
   Hash7: []
   Hash7_Fix2_0: []
   Hash8: []

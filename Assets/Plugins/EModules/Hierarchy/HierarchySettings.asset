@@ -460,6 +460,8 @@ MonoBehaviour:
   lastIconSelect: []
   _lasHiglightBackGroundColor:
   - serializedVersion: 2
+    rgba: 4286958057
+  - serializedVersion: 2
     rgba: 4291469768
   - serializedVersion: 2
     rgba: 4291277510
@@ -471,8 +473,6 @@ MonoBehaviour:
     rgba: 4291414510
   - serializedVersion: 2
     rgba: 4292993518
-  - serializedVersion: 2
-    rgba: 4286958057
   - serializedVersion: 2
     rgba: 4289383645
   - serializedVersion: 2
