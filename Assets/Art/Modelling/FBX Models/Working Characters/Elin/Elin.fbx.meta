@@ -114,6 +114,7 @@ ModelImporter:
     100216: ms_shirt_women
     100218: sleeves
     100220: tennisBall
+    100222: Distance Tester
     400000: BezierCurve
     400002: Body
     400004: Camera
@@ -225,6 +226,7 @@ ModelImporter:
     400216: ms_shirt_women
     400218: sleeves
     400220: tennisBall
+    400222: Distance Tester
     2000000: Camera
     2100000: Material
     2100002: lips
@@ -265,6 +267,7 @@ ModelImporter:
     2300028: Eye_R
     2300030: Cube
     2300032: tennisBall
+    2300034: Distance Tester
     3300000: BezierCurve
     3300002: girl cloack
     3300004: man boots
@@ -282,6 +285,7 @@ ModelImporter:
     3300028: Eye_R
     3300030: Cube
     3300032: tennisBall
+    3300034: Distance Tester
     4300000: Body
     4300002: girl shirt
     4300004: Hair
@@ -306,6 +310,7 @@ ModelImporter:
     4300042: ms_shirt_women
     4300044: sleeves
     4300046: tennisBall
+    4300048: Distance Tester
     7400000: Idle
     7400002: metarig|metarigAction (1)
     7400004: BallBounce
@@ -413,7 +418,11 @@ ModelImporter:
     animationImportWarnings: "\nClip 'metarig|metarigAction' has import animation
       warnings that might lower retargeting quality:\nNote: Activate translation DOF
       on avatar to improve retargeting quality.\n\t'spine.004' is inbetween humanoid
-      transforms and has rotation animation that will be discarded.\n"
+      transforms and has rotation animation that will be discarded.\n\t'palm.01.R'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'palm.02.R'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'palm.03.R'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'palm.04.R'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n"
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
     importAnimatedCustomProperties: 0
@@ -438,7 +447,7 @@ ModelImporter:
       loop: 0
       hasAdditiveReferencePose: 0
       loopTime: 1
-      loopBlend: 0
+      loopBlend: 1
       loopBlendOrientation: 0
       loopBlendPositionY: 0
       loopBlendPositionXZ: 0
@@ -485,8 +494,8 @@ ModelImporter:
     - serializedVersion: 16
       name: BallBounce
       takeName: metarig|metarigAction
-      firstFrame: 100
-      lastFrame: 101
+      firstFrame: 102
+      lastFrame: 177
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
