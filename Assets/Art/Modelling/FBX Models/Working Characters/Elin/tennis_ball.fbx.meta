@@ -10,7 +10,7 @@ ModelImporter:
     2300000: //RootNode
     3300000: //RootNode
     4300000: tennisBall
-    7400000: tennisBall|tennisBallAction
+    7400000: tennisBall
     9500000: //RootNode
   externalObjects: {}
   materials:
@@ -41,7 +41,7 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: tennisBall|tennisBallAction
+      name: tennisBall
       takeName: tennisBall|tennisBallAction
       firstFrame: 0
       lastFrame: 76

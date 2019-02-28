@@ -10,6 +10,7 @@ public class SpeechBubbleSwitch : MonoBehaviour
     public Animator anim3;
     public Animator anim4;
     bool isBox = true;
+    public bool isSpeech;
     // Start is called before the first frame update
     void Start()
     {
@@ -19,7 +20,7 @@ public class SpeechBubbleSwitch : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.D))
+        if (isSpeech == true)
         {
             if(isBox == true)
             {
@@ -31,6 +32,7 @@ public class SpeechBubbleSwitch : MonoBehaviour
                 CurveToBox();
                 isBox = true;
             }
+            isSpeech = false;
         }
     }
     public void BoxToSpeech()

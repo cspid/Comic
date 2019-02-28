@@ -439,7 +439,7 @@ ModelImporter:
       name: Idle
       takeName: metarig|metarigAction
       firstFrame: 10
-      lastFrame: 94.5
+      lastFrame: 86
       wrapMode: 0
       orientationOffsetY: 0
       level: 0

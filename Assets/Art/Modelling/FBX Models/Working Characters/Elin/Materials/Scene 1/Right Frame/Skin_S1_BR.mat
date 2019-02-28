@@ -87,7 +87,7 @@ Material:
     - _OcclusionStrength: 1
     - _Offset1: 0
     - _Offset2: 0
-    - _Outline: 0.02
+    - _Outline: 0.05
     - _Parallax: 0.02
     - _RampSmooth: 0.598
     - _RampSmoothOtherLights: 0.5
@@ -97,7 +97,7 @@ Material:
     - _RimMin: 0.5
     - _Shininess: 0.01
     - _SketchHalftoneMax: 0.82
-    - _SketchHalftoneMin: 0.434
+    - _SketchHalftoneMin: 0.49
     - _SketchSpeed: 4.1
     - _SmoothnessTextureChannel: 0
     - _SpecSmooth: 0.041
