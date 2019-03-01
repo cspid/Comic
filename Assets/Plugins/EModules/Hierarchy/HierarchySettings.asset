@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 9636717, guid: 9d97897b2ac2c7b42a4abfb7663c32a7, type: 3}
   m_Name: HierarchySettings
   m_EditorClassIdentifier: 
-  _prefab_key: 04b8faff5a6601002c5e0100e06f0100126a0100c060010082630100a26b0100f85b0100185b0100265c0100c45f0100e06901006e61010098650100f85f01004c59010070640100dc6e0100726b0100ca610100d0650100be660100965d010032690100b66f0100dc5c0100ea6901003a67010056590100c257010062ccfeff4c0af8ff800af8ff560af8ff048af9ffc244f9ffde2ef6ffccaef4ff7e6f010046610100666701003c6f010010d9fcff42c3feff4427fdff600ef8ff5c0ef8ffbe0af8ff620ef8ff5e0ef8ff640ef8fff40af8ff005b0100c66f010006710100c263010016570100485e0100085a0100e25a0100f85701002672010028730100d6670100ce660100ca580100
+  _prefab_key: fe231300c8311300ae4313001c24130092451300124313002829130092351300ae191300c8491300664a130002371300a63313009823130094191300f6391300ee211300201e1300524213001e49130002251300c02d13006a2d13009441130074431300183b1300fc3b13007c3613009c2e1300464213009c42130042201300f61c1300a0acf7ffbcacf7ff80adf7ffc2acf7ffc0acf7ffbeacf7ffa23df7ff8639f7ff483af7ff8c39f7ff8a39f7ff8839f7ffca05f7ffcc05f7ffdc05f7ffd205f7ffd005f7ffce05f7ffce09f7ff8a3df7ffc6b0f7ff6e89f4ffd409f7ff8e3df7ff
   _prefab_value:
   - {fileID: 0}
   - {fileID: 0}
@@ -27,27 +27,21 @@ MonoBehaviour:
   - {fileID: 0}
   - {fileID: 0}
   - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 100000, guid: ea272aac774307e4b98068e96a26949d, type: 3}
-  - {fileID: 0}
-  - {fileID: 100006, guid: e1b09d9c344ff004eae10cf788fad745, type: 3}
-  - {fileID: 322234492, guid: 252729bb0f8bc334dbb974d42c1f87ae, type: 3}
-  - {fileID: 0}
-  - {fileID: 0}
+  - {fileID: 2905538047244315660, guid: 756c583114419aa4b9e9b98dafd9a2c6, type: 3}
+  - {fileID: 2905538047244315656, guid: 756c583114419aa4b9e9b98dafd9a2c6, type: 3}
+  - {fileID: 2905538047244316124, guid: 756c583114419aa4b9e9b98dafd9a2c6, type: 3}
+  - {fileID: 2905538047244315736, guid: 756c583114419aa4b9e9b98dafd9a2c6, type: 3}
+  - {fileID: 2905538047244315742, guid: 756c583114419aa4b9e9b98dafd9a2c6, type: 3}
+  - {fileID: 2905538047244315740, guid: 756c583114419aa4b9e9b98dafd9a2c6, type: 3}
+  - {fileID: 2905538047244315730, guid: 756c583114419aa4b9e9b98dafd9a2c6, type: 3}
+  - {fileID: 2905538047244316070, guid: 756c583114419aa4b9e9b98dafd9a2c6, type: 3}
+  - {fileID: 2905538047244316094, guid: 756c583114419aa4b9e9b98dafd9a2c6, type: 3}
+  - {fileID: 2905538047244316114, guid: 756c583114419aa4b9e9b98dafd9a2c6, type: 3}
+  - {fileID: 2905538047244316036, guid: 756c583114419aa4b9e9b98dafd9a2c6, type: 3}
+  - {fileID: 2905538047244316058, guid: 756c583114419aa4b9e9b98dafd9a2c6, type: 3}
+  - {fileID: 2905538047244316062, guid: 756c583114419aa4b9e9b98dafd9a2c6, type: 3}
+  - {fileID: 2905538047244316112, guid: 756c583114419aa4b9e9b98dafd9a2c6, type: 3}
+  - {fileID: 2905538047244316158, guid: 756c583114419aa4b9e9b98dafd9a2c6, type: 3}
   - {fileID: 0}
   - {fileID: 0}
   - {fileID: 0}
@@ -74,11 +68,7 @@ MonoBehaviour:
   - {fileID: 0}
   - {fileID: 0}
   - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
+  - {fileID: 100000, guid: d6a4a2e891ab89e4abbee601dd657801, type: 3}
   - {fileID: 0}
   - {fileID: 0}
   pluginID: 0
@@ -86,6 +76,16 @@ MonoBehaviour:
   - guid: 6b9b737d22214e24d82b71bb495d050d
     pin: 0
     path: Assets/Scenes/Thesis Demo Black Back.unity
+    additional_guid: []
+    additional_path: []
+  - guid: 295e95802147644e28a40c5b9a17a628
+    pin: 0
+    path: Assets/Scenes/Original Scene.unity
+    additional_guid: []
+    additional_path: []
+  - guid: e5216409ce89bda4398a2a8882d00f7b
+    pin: 0
+    path: Assets/Plugins/EModules/PostPresets 1000+ Collection/Example Scene/Scene.unity
     additional_guid: []
     additional_path: []
   last_scenes: []
@@ -183,15 +183,15 @@ MonoBehaviour:
   lastIconSelect: []
   _lasHiglightBackGroundColor:
   - serializedVersion: 2
+    rgba: 4286958057
+  - serializedVersion: 2
+    rgba: 4279857129
+  - serializedVersion: 2
     rgba: 4289869981
   - serializedVersion: 2
     rgba: 4283272016
   - serializedVersion: 2
-    rgba: 4279857129
-  - serializedVersion: 2
     rgba: 4289383645
-  - serializedVersion: 2
-    rgba: 4286958057
   - serializedVersion: 2
     rgba: 4291469768
   - serializedVersion: 2
