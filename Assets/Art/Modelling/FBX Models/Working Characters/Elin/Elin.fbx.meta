@@ -375,12 +375,12 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: girl pants
-    second: {fileID: 2100000, guid: dbf755f22a9a4744f847cc10ca4a13d6, type: 2}
+    second: {fileID: 2100000, guid: 943e088b955ed6543b914ea5b6ecd33e, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: girl shirt
-    second: {fileID: 2100000, guid: 4543313fd9bd59145b8f80dcef006c03, type: 2}
+    second: {fileID: 2100000, guid: 15f602c2babc9f24581148634f27f1ab, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -390,7 +390,7 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: lips
-    second: {fileID: 2100000, guid: 7e4a7ed7fed678b458c0e836427d27d6, type: 2}
+    second: {fileID: 2100000, guid: 4531dce80a058264291b29af2742f766, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
