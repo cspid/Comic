@@ -525,3 +525,19 @@ MonoBehaviour:
     IsRecursive: 0
     SmallIcon: {fileID: 2800000, guid: aa9fc7071d5eb1c429b697ac0a038a80, type: 3}
     LargeIcon: {fileID: 2800000, guid: ef55849a2ae927d458e203080c8ee6ad, type: 3}
+  - Type: 1
+    Key: Assets/Art/Modelling/FBX Models/Working Characters/Young Elin
+    IsRecursive: 0
+    SmallIcon: {fileID: 2800000, guid: 996ce5f7498be3b47ad13c2557bef293, type: 3}
+    LargeIcon: {fileID: 2800000, guid: 06303b4e77878d243b511b8f0c8bfc69, type: 3}
+  - Type: 1
+    Key: Assets/Art/Modelling/FBX Models/Working Characters/Elin/Materials/Scene 2
+    IsRecursive: 0
+    SmallIcon: {fileID: 2800000, guid: f14480b09218f3047a15b5ded872de28, type: 3}
+    LargeIcon: {fileID: 2800000, guid: 38dec0c9e1ada504d98f8a0f4959a215, type: 3}
+  - Type: 1
+    Key: Assets/Art/Modelling/FBX Models/Working Characters/Elin/Materials/Scene 2/Middle
+      Frame
+    IsRecursive: 0
+    SmallIcon: {fileID: 2800000, guid: f14480b09218f3047a15b5ded872de28, type: 3}
+    LargeIcon: {fileID: 2800000, guid: 38dec0c9e1ada504d98f8a0f4959a215, type: 3}

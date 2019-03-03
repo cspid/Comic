@@ -16,8 +16,9 @@ public class GetColor : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-       image =  GetComponent<Image>();        
-        
+       image =  GetComponent<Image>();
+       image.color = backgroundCamera.backgroundColor;
+
     }
 
     // Update is called once per frame
