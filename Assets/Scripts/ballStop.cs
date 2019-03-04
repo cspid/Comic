@@ -12,14 +12,19 @@ public class ballStop : MonoBehaviour
     LookAtIK lookIK;
     public DemoSequence demoSequence;
     public GameObject Ball_BL;
+    bool hasAdded;
 
     public void OpenFrameBL()
     {
         if (active == true)
         {
-
+            print("Ball advancing counter");
             active2 = true;
-            demoSequence.counter++;
+            if (hasAdded == false)
+            {
+                demoSequence.counter++;
+                hasAdded = true;            
+            }
             print("counter +1 ballStop.cs");
             Ball_BL.SetActive(true);
         }

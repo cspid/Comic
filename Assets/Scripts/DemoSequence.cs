@@ -11,6 +11,9 @@ public class DemoSequence : MonoBehaviour
     public SpeechBubbleSwitch bubble;
     public GameObject scene1;
     public GameObject scene2;
+    public GameObject scene3;
+    public ColorLerp colorLerp;
+    public float timer = 3;
 
     [Header("Scene 1")]
     public lerpRectTranform openL;
@@ -24,15 +27,26 @@ public class DemoSequence : MonoBehaviour
     public lerpRectTranform closeL;
     public Text textCounter;
     public GameObject frames;
+
     bool newSceneTrigger;
     public ballStop stop;
-    float timer = 3;
 
     [Header("Scene 2")]
     public lerpRectTranform openL_S2;
     public lerpRectTranform openM_S2;
     public lerpRectTranform openR_S2;
+    public lerpRectTranform closeL_S2;
+    public lerpRectTranform closeM_S2;
+    public lerpRectTranform closeR_S2;
+    public GameObject frames2;
+    bool newSceneTrigger2;
 
+
+
+    [Header("Scene 3")]
+    public lerpRectTranform openL_S3;
+    public lerpRectTranform openM_S3;
+    public lerpRectTranform openR_S3;
 
     [Header("Yarn")]
     public DialogueRunner dialogueRunner;
@@ -40,7 +54,6 @@ public class DemoSequence : MonoBehaviour
 
     bool callLerp;
     int counterLastFrame;
-    public ColorLerp colorLerp;
 
     // Update is called once per frame
     void Update()
@@ -48,6 +61,11 @@ public class DemoSequence : MonoBehaviour
         if(newSceneTrigger == true)
         {
             NewScene();
+        }
+
+        if (newSceneTrigger2 == true)
+        {
+            NewScene2();
         }
 
         if (Input.GetButtonDown("Fire1"))
@@ -105,15 +123,25 @@ public class DemoSequence : MonoBehaviour
                 bubble.isSpeech = true;
             }
 
-            if (counter == 12)
+            if (counter == 9)
             {
                 //Shutdown scene 1
                 closeT.isLerping = true;
                 closeBL.isLerping = true;
                 closeBR.isLerping = true;
                 closeL.isLerping = true;
-                newSceneTrigger = true;
-                
+                newSceneTrigger = true;               
+            }
+
+            if (counter == 10)
+            {
+                //Shutdown scene 3
+                closeL_S2.isLerping = true;
+                closeM_S2.isLerping = true;
+                closeR_S2.isLerping = true;
+                closeL.isLerping = true;
+                timer = 3;
+                newSceneTrigger2 = true;
             }
         }
         counterLastFrame = counter; 
@@ -134,8 +162,29 @@ public class DemoSequence : MonoBehaviour
             openM_S2.isLerping = true;
             openR_S2.isLerping = true;
             newSceneTrigger = false;
-
+            timer = 3;
             scene1.SetActive(false);
+        }
+    }
+
+    void NewScene2()
+    {
+        timer = timer - Time.deltaTime;
+        if (timer < 0)
+        {
+            foreach (Transform child in frames2.transform)
+            {
+                DestroyImmediate(child.gameObject);
+                colorLerp.enabled = true;
+            }
+            scene3.SetActive(true);
+
+            openL_S3.isLerping = true;
+            openM_S3.isLerping = true;
+            openR_S3.isLerping = true;
+            newSceneTrigger2 = false;
+            timer = 3;
+            scene2.SetActive(false);
         }
     }
 }

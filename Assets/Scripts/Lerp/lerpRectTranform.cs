@@ -15,6 +15,7 @@ public class lerpRectTranform : baseLerper
     private bool lerpingdown = false;
     private float currentLerpTime;
     public RectTransform rectTransform;
+    bool updateStartPos = true;
     void Start()
     {
         rectTransform = GetComponent<RectTransform>();
@@ -33,11 +34,33 @@ public class lerpRectTranform : baseLerper
         base.startLerp();
 
     }
+
+    void ResetStart()
+    {
+        rectTransform = GetComponent<RectTransform>();
+        if (local)
+        {
+            startPositon = rectTransform.anchoredPosition;
+        }
+        else
+        {
+            startPositon = rectTransform.anchoredPosition;
+        }
+
+    }
     // Update is called once per frame
     void Update()
     {
-        if (isLerping == true)
-        {
+        
+
+            if (isLerping == true)
+            {
+                if (updateStartPos == true)
+                {
+                    ResetStart();
+                    updateStartPos = false;
+                }
+
             currentLerpTime += Time.deltaTime;
             if (local)
             {
@@ -78,5 +101,6 @@ public class lerpRectTranform : baseLerper
 
             }
         }
+
     }
 }
