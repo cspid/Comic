@@ -13,7 +13,7 @@ public class ColorLerp : MonoBehaviour
     public float duration = 10;
 
 
-    float t = 0;
+    public float t = 0;
     // Start is called before the first frame update
     void Start()
     {
